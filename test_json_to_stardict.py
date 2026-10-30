@@ -1,3 +1,5 @@
+# Copyright (C) 2026 Ypot <ypot@publik.slmail.me>
+# SPDX-License-Identifier: GPL-3.0-or-later
 """Tests for json-to-stardict.py, run through its command line.
 
 Run: python -m unittest test_json_to_stardict

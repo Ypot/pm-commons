@@ -1,0 +1,4594 @@
+[
+ {
+  "term": "acceptance criteria",
+  "aliases": [],
+  "definition": "The conditions a deliverable has to satisfy before it is accepted, agreed in advance so that the decision to accept it can be checked objectively.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "acceptance-test-driven development",
+  "aliases": [
+   "ATDD"
+  ],
+  "definition": "A method in which acceptance criteria are agreed jointly and turned into acceptance tests before delivery starts.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "accountability",
+  "aliases": [],
+  "definition": "The obligation of one person to answer for how a task or a project turns out; it rests with a single individual and cannot be shared, unlike responsibility for doing the work, which several people may hold.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "activity",
+  "aliases": [],
+  "definition": "A task or group of related tasks in a schedule network, occurring within prescribed limits of time, that must be performed in the accomplishment of a project.",
+  "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada), adapted",
+  "source": "TERMIUM Plus (Government of Canada): Operations Research and Management",
+  "licence": "Open Government Licence – Canada 2.0",
+  "url": "https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "activity list",
+  "aliases": [],
+  "definition": "A document listing every activity in the project schedule, each with its own identifier, a name or short description, and enough detail about its scope for team members to know exactly what work it involves.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "actual cost",
+  "aliases": [
+   "AC"
+  ],
+  "definition": "The cost actually incurred for the work done within a predefined period. Also known as Actual Cost of Work Performed (ACWP).",
+  "attribution": "Source: European Commission, PM² Project Management Methodology Guide 3.1 (© European Union, 2023), https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1, CC BY 4.0, adapted",
+  "source": "PM² Guide 3.1, Appendix G (European Commission): Actual Cost (AC)",
+  "licence": "CC BY 4.0",
+  "url": "https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "actual duration",
+  "aliases": [],
+  "definition": "The calendar time an activity has actually taken, counted from its actual start either to its actual finish, once it is complete, or to the schedule's data date while it is still in progress.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "adaptive approach",
+  "aliases": [],
+  "definition": "A way of developing a product that suits work whose requirements are highly uncertain and unstable and are expected to change as the project goes on; the scope is worked out in short cycles with frequent feedback.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "affinity diagram",
+  "aliases": [],
+  "definition": "A diagram in which a large set of ideas, such as those produced in a brainstorming session, is sorted into groups of related items so that they can be reviewed and analysed.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "agile",
+  "aliases": [],
+  "definition": "The mindset of the Agile Manifesto's values and principles.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "AI bias mitigation",
+  "aliases": [],
+  "definition": "The set of methods used to lessen unfair bias in artificial intelligence models, so that the outcomes they produce are fair to the people they affect.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "AI system",
+  "aliases": [],
+  "definition": "A computer-based system that works out, from the data it is given, how to produce outputs such as content, predictions, decisions or recommendations that serve stated or implied goals and can affect physical or digital environments. Such systems differ in how autonomously they act and how far they keep adapting once deployed.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "alternative analysis",
+  "aliases": [],
+  "definition": "A technique for weighing the identified options against each other to choose which options or approaches the project will use to carry out its work, for example whether to build a component or buy it.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "analogous estimating",
+  "aliases": [],
+  "definition": "A technique that estimates the duration, cost or resources of an activity or project from the actual figures of a similar one.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "apportioned effort",
+  "aliases": [],
+  "definition": "An activity whose effort cannot be split into discrete pieces and is planned in proportion to the discrete work it supports.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "artifact",
+  "aliases": [],
+  "definition": "Any document or other item a project, program or portfolio produces to help run it and inform its team, stakeholders and management.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "artificial intelligence",
+  "aliases": [
+   "AI"
+  ],
+  "definition": "The capability of computational systems to perform tasks associated with human intelligence, such as decision-making.",
+  "attribution": "Source: Wikipedia, \"Artificial intelligence\" (rev. 1382684438), https://en.wikipedia.org/w/index.php?oldid=1382684438, CC BY-SA 4.0, adapted",
+  "source": "Wikipedia: Artificial intelligence",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://en.wikipedia.org/w/index.php?oldid=1382684438",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "artificial intelligence in portfolio, program, and project management",
+  "aliases": [],
+  "definition": "The use of artificial intelligence within established methods of managing portfolios, programs and projects to improve decisions, simplify operations and raise efficiency and effectiveness.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "assumption",
+  "aliases": [],
+  "definition": "A factor accepted as true without proof in project planning.",
+  "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada), adapted",
+  "source": "TERMIUM Plus (Government of Canada): Organization Planning",
+  "licence": "Open Government Licence – Canada 2.0",
+  "url": "https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "assumption log",
+  "aliases": [],
+  "definition": "A project document in which every assumption and constraint is recorded throughout the project.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "backlog",
+  "aliases": [],
+  "definition": "A business-ranked list of the work to be done in an agile or adaptive project, used to manage that work; its items are often user stories.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "backlog refinement",
+  "aliases": [],
+  "definition": "A process by which team members revise and prioritize a backlog for future iterations, breaking down large items into smaller and clearer ones.",
+  "attribution": "Source: Wikipedia, \"Scrum (project management)\" (rev. 1375724138), https://en.wikipedia.org/w/index.php?oldid=1375724138, CC BY-SA 4.0, adapted",
+  "source": "Wikipedia: Scrum (project management), section Backlog refinement",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://en.wikipedia.org/w/index.php?oldid=1375724138",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "backward pass",
+  "aliases": [],
+  "definition": "A critical path method calculation of late finish and late start dates, working back from the project's finish date.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "baseline",
+  "aliases": [],
+  "definition": "An approved plan or other work product, altered only by formal change control, against which actual results are compared.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "behavior-driven development",
+  "aliases": [
+   "BDD"
+  ],
+  "definition": "A practice for designing and validating a system with plain-language scripts written as tests before it is built.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "benchmarking",
+  "aliases": [],
+  "definition": "Comparing products, processes and practices, in place or planned, with those of similar organizations to find good practices, gather improvement ideas and set a performance yardstick.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "benefit",
+  "aliases": [],
+  "definition": "A gain or asset, financial or not, that an organization and its stakeholders draw from the outcomes a project or program delivers, such as higher revenue, lower costs or better service.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "benefits management plan",
+  "aliases": [],
+  "definition": "A document explaining the processes by which a program or project creates, maximizes and sustains its benefits.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "benefits realization plan",
+  "aliases": [],
+  "definition": "A document setting out the work, schedule, tools and resources needed to fully achieve the planned benefits over time.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "blocker",
+  "aliases": [],
+  "definition": "Another name for an impediment: an obstacle that keeps the team from its objectives.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "bottom-up estimating",
+  "aliases": [],
+  "definition": "A way of estimating time, cost or resources by adding up estimates for lower-level work breakdown structure components.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "budget",
+  "aliases": [],
+  "definition": "An approved estimate covering a project, program or portfolio, or any of its work breakdown structure elements or schedule activities.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "budget at completion",
+  "aliases": [
+   "BAC"
+  ],
+  "definition": "The total of every budget set for a body of work, such as a project or control account.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "burndown chart",
+  "aliases": [],
+  "definition": "A graphical representation of work left to do versus time over one timebox.",
+  "attribution": "Source: Wikipedia, \"Burndown chart\" (rev. 1377014671), https://en.wikipedia.org/w/index.php?oldid=1377014671, CC BY-SA 4.0, adapted",
+  "source": "Wikipedia (article lead): Burndown chart",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://en.wikipedia.org/w/index.php?oldid=1377014671",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "burnup chart",
+  "aliases": [],
+  "definition": "A chart of completed work rising toward a goal, such as a milestone.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "business analysis",
+  "aliases": [],
+  "definition": "The activities that help deliver solutions which serve business objectives and keep adding value to the organization.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "business case",
+  "aliases": [],
+  "definition": "A document assessing the economic viability of a project, program or portfolio component and validating the benefits it is to deliver.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "business need",
+  "aliases": [],
+  "definition": "An organization's reason to change, arising from a current problem or opportunity; it justifies starting a program or project.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "business objective",
+  "aliases": [],
+  "definition": "A specific, measurable target the business aims to reach; it should align with the organization's objectives.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "business requirement documents",
+  "aliases": [],
+  "definition": "The document or documents listing every requirement of a specific project.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "business rule",
+  "aliases": [],
+  "definition": "A constraint the business sets on how the organization should operate, enforced through data and/or processes.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "business value",
+  "aliases": [],
+  "definition": "The net, quantifiable gain, tangible and/or intangible, that an organization draws from a business undertaking.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "capability",
+  "aliases": [],
+  "definition": "What an organization can do, through a function, a process, a service or some other proficiency, to add value or reach its objectives.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "cause",
+  "aliases": [],
+  "definition": "An event or condition, existing or certain to occur, that may give rise to risks.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "cause-and-effect diagram",
+  "aliases": [],
+  "definition": "A diagram (also known as a fishbone diagram or Ishikawa diagram) that shows the causes of a specific event, down to its root cause.",
+  "attribution": "Source: European Commission, PM² Project Management Methodology Guide 3.1 (© European Union, 2023), https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1, CC BY 4.0, adapted",
+  "source": "PM² Guide 3.1, Appendix G (European Commission): Cause and Effect Diagram",
+  "licence": "CC BY 4.0",
+  "url": "https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "change control",
+  "aliases": [],
+  "definition": "The process of identifying, documenting, and approving or rejecting changes to project documents, deliverables or baselines.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "change control board",
+  "aliases": [
+   "CCB"
+  ],
+  "definition": "A formally constituted group that reviews, evaluates and approves, defers or rejects project changes, and records and communicates its decisions.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "change control system",
+  "aliases": [],
+  "definition": "The procedures for managing and controlling changes to project deliverables and documents.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "change management plan",
+  "aliases": [],
+  "definition": "Part of the project management plan that sets up the change control board, defines its authority and says how the change control system will work.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "change request",
+  "aliases": [],
+  "definition": "A formal proposal to change a document, a deliverable or a baseline.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "code of accounts",
+  "aliases": [],
+  "definition": "The numbering scheme that gives each element of the work breakdown structure a unique identifier.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "colocation",
+  "aliases": [],
+  "definition": "The practice of placing project team members close together to ease communication, strengthen working relationships and raise productivity.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "communications management plan",
+  "aliases": [],
+  "definition": "Part of the project, program or portfolio management plan that sets out how and when information will be handled and distributed, and by whom.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "complexity",
+  "aliases": [],
+  "definition": "A quality of a project or program, or of its environment, that makes it hard to manage because of human and system behavior and ambiguity.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "component",
+  "aliases": [],
+  "definition": "A predefined part of a project, program or portfolio whose work helps meet its strategic objectives.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "configuration management plan",
+  "aliases": [],
+  "definition": "Part of the project management plan that sets out the procedures for tracking project artifacts and monitoring and controlling changes to them.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "configuration management system",
+  "aliases": [],
+  "definition": "The procedures for tracking project artifacts and monitoring and controlling changes to them.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "constraint",
+  "aliases": [],
+  "definition": "A restraint on carrying out a project, program, portfolio or process.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "contingency",
+  "aliases": [],
+  "definition": "An event that could affect the project's execution and may be covered by a reserve.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "contingency plan",
+  "aliases": [],
+  "definition": "A document that outlines the actions to follow if trigger conditions defined in advance occur, for example, to minimise the impact of a risk after it has occurred.",
+  "attribution": "Source: European Commission, PM² Project Management Methodology Guide 3.1 (© European Union, 2023), https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1, CC BY 4.0, adapted",
+  "source": "PM² Guide 3.1, Appendix G (European Commission): Contingency Plan",
+  "licence": "CC BY 4.0",
+  "url": "https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "contingency reserve",
+  "aliases": [],
+  "definition": "Time or money built into the cost or schedule baseline for identified risks with active responses.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "continuous delivery",
+  "aliases": [],
+  "definition": "The practice of delivering each feature increment to customers immediately, often through small batches and automation.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "continuous integration",
+  "aliases": [],
+  "definition": "The practice of frequently integrating every team member's work and validating the whole.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "continuum of approaches",
+  "aliases": [],
+  "definition": "The range of life cycle approaches, often called hybrid life cycles, that blend predictive elements with iterative and incremental agile ones in varying mixes.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "control account",
+  "aliases": [],
+  "definition": "A management control point that integrates scope, schedule, budget and actual cost and compares them with earned value to measure performance.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "corrective action",
+  "aliases": [],
+  "definition": "An action planned for the purpose of bringing the project back on track when deviations from the project's baselines have been identified.",
+  "attribution": "Source: European Commission, PM² Project Management Methodology Guide 3.1 (© European Union, 2023), https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1, CC BY 4.0, adapted",
+  "source": "PM² Guide 3.1, Appendix G (European Commission): Corrective Actions",
+  "licence": "CC BY 4.0",
+  "url": "https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "cost baseline",
+  "aliases": [],
+  "definition": "The approved, time-phased project budget, minus management reserve, that actual costs are compared against and only formal change control can alter.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "cost of quality",
+  "aliases": [
+   "CoQ"
+  ],
+  "definition": "The total cost, over a product's life, of preventing nonconformance, appraising conformance and failing to meet requirements.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "cost performance index",
+  "aliases": [
+   "CPI"
+  ],
+  "definition": "An index of cost efficiency: earned value divided by actual cost (EV/AC).",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "cost variance",
+  "aliases": [
+   "CV"
+  ],
+  "definition": "The difference between earned value and actual cost (CV = EV − AC). A positive value indicates a favorable condition and a negative value an unfavorable one, for a specific period or cumulative to date.",
+  "attribution": "Source: NASA, Earned Value Management (EVM) Implementation Handbook (2018), https://ntrs.nasa.gov/citations/20180001499, public domain (U.S. Government work), adapted",
+  "source": "NASA EVM Implementation Handbook (2018), Appendix H: Cost Variance (CV)",
+  "licence": "Public domain (U.S. Government work)",
+  "url": "https://ntrs.nasa.gov/citations/20180001499",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "cost-benefit analysis",
+  "aliases": [],
+  "definition": "An analytic technique that compares the costs and benefits of projects.",
+  "attribution": "Source: Defense Acquisition University, Glossary of Defense Acquisition Acronyms and Terms, 14th ed. (2011), https://webarchive.library.unt.edu/web/20161207082643/http://www.dau.mil/pubscats/PubsCats/Glossary%2014th%20edition%20July%202011.pdf, public domain (U.S. Government work), adapted",
+  "source": "DAU Glossary of Defense Acquisition Acronyms and Terms, 14th ed. (2011): Cost Benefit Analysis (CBA)",
+  "licence": "Public domain (U.S. Government work)",
+  "url": "https://webarchive.library.unt.edu/web/20161207082643/http://www.dau.mil/pubscats/PubsCats/Glossary%2014th%20edition%20July%202011.pdf",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "cost-plus-award-fee contract",
+  "aliases": [],
+  "definition": "A cost-reimbursable contract in which the seller is paid all its valid costs for the work done, plus an award fee as its profit.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "cost-plus-fixed-fee contract",
+  "aliases": [],
+  "definition": "A cost-reimbursable contract in which the seller is paid back the costs the contract allows, plus a fixed fee as its profit.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "cost-plus-incentive-fee contract",
+  "aliases": [],
+  "definition": "A cost-reimbursable contract in which the seller is paid back the costs the contract allows, its profit depending on meeting agreed performance criteria.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "cost-reimbursable contract",
+  "aliases": [],
+  "definition": "A contract under which the seller is repaid its actual costs and paid a fee, usually its profit.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "crashing",
+  "aliases": [],
+  "definition": "A schedule compression technique that adds resources where each unit of time saved costs least.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "critical chain method",
+  "aliases": [],
+  "definition": "A scheduling method that places buffers on schedule paths to allow for limited resources and uncertainty.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "critical path",
+  "aliases": [],
+  "definition": "The longest sequence of activities through a project, which sets its shortest possible duration.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "critical path activity",
+  "aliases": [],
+  "definition": "An activity that lies on the critical path of a project schedule.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "critical path method",
+  "aliases": [
+   "CPM"
+  ],
+  "definition": "A scheduling method that estimates a project's shortest possible duration and how much float each path of its network has.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "cross-functional team",
+  "aliases": [],
+  "definition": "A team that has every skill needed to deliver valuable increments of the product.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "cycle time",
+  "aliases": [],
+  "definition": "The total time an activity or work item takes from start to completion.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "daily coordination meeting",
+  "aliases": [],
+  "definition": "A short daily team meeting to go over progress since the day before, today's plans and any obstacles met or expected.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "dashboard",
+  "aliases": [],
+  "definition": "A display of charts and graphs that show a project's progress or performance against its key measures.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "data analytics",
+  "aliases": [],
+  "definition": "Analysis that turns data into actionable information for decision-making.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "data date",
+  "aliases": [],
+  "definition": "The date as of which project status is recorded.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "data science",
+  "aliases": [],
+  "definition": "A field to extract knowledge and insights from structured and unstructured data.",
+  "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada), adapted",
+  "source": "TERMIUM Plus (Government of Canada): Communication and Information Management",
+  "licence": "Open Government Licence – Canada 2.0",
+  "url": "https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "decision tree analysis",
+  "aliases": [],
+  "definition": "A technique that diagrams a chain of decisions under uncertainty and calculates the consequences of each.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "decomposition",
+  "aliases": [],
+  "definition": "A technique for breaking project scope and deliverables down, level by level, into smaller, easier-to-manage parts.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "definition of done",
+  "aliases": [
+   "DoD"
+  ],
+  "definition": "An enumeration of the criteria that must be fulfilled to consider a deliverable ready for the customer to use.",
+  "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada), adapted",
+  "source": "TERMIUM Plus (Government of Canada): Operations Research and Management",
+  "licence": "Open Government Licence – Canada 2.0",
+  "url": "https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "definition of ready",
+  "aliases": [
+   "DoR"
+  ],
+  "definition": "An enumeration of the criteria that must be fulfilled for a team to consider that the work related to a user story, or another requirement written from the user's point of view, may be started.",
+  "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada), adapted",
+  "source": "TERMIUM Plus (Government of Canada): Operations Research and Management",
+  "licence": "Open Government Licence – Canada 2.0",
+  "url": "https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "deliverable",
+  "aliases": [],
+  "definition": "A unique, verifiable product, result or service capability that must be produced to finish a process, a phase or the project.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "demonstrations",
+  "aliases": [
+   "demos"
+  ],
+  "definition": "Sessions where the team shows stakeholders its finished work to get feedback and confirm progress.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "dependency",
+  "aliases": [],
+  "definition": "A logical link between activities by which the timing, sequence or completion of one depends on another.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "design thinking",
+  "aliases": [],
+  "definition": "An iterative, nonlinear team process of studying users, questioning assumptions, reframing problems, and creating, prototyping and testing innovative solutions.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "development approach",
+  "aliases": [],
+  "definition": "The method a project uses to create and evolve its product, service or result over the life cycle, for example predictive, adaptive or hybrid.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "DevOps",
+  "aliases": [],
+  "definition": "A set of practices in which development and operations staff work closely together so that delivery flows smoothly.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "DevSecOps",
+  "aliases": [],
+  "definition": "An extension of DevOps that integrates security into all phases of development and operations.",
+  "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada), adapted",
+  "source": "TERMIUM Plus (Government of Canada): Software",
+  "licence": "Open Government Licence – Canada 2.0",
+  "url": "https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "disbenefit",
+  "aliases": [],
+  "definition": "A measurable consequence of a project that is perceived as negative by one or more of its stakeholders.",
+  "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada), adapted",
+  "source": "TERMIUM Plus (Government of Canada): Management Operations (General)",
+  "licence": "Open Government Licence – Canada 2.0",
+  "url": "https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "discrete effort",
+  "aliases": [],
+  "definition": "An activity with a specific output, open to planning and measurement, unlike level of effort and apportioned effort.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "duration",
+  "aliases": [],
+  "definition": "The time required to complete a WBS component or an activity—the time between its start and finish—expressed in business units, such as working days.",
+  "attribution": "Source: U.S. Government Accountability Office, GAO Schedule Assessment Guide (GAO-16-89G, 2015), https://www.gao.gov/products/gao-16-89g, public domain (U.S. Government work), adapted",
+  "source": "U.S. GAO, Schedule Assessment Guide (GAO-16-89G), Glossary: Duration",
+  "licence": "Public domain (U.S. Government work)",
+  "url": "https://www.gao.gov/products/gao-16-89g",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "early finish (EF) date",
+  "aliases": [],
+  "definition": "The earliest time that a scheduled activity may be finished in the critical path method, given its remaining work, the data date, network logic and schedule constraints.",
+  "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada), adapted",
+  "source": "TERMIUM Plus (Government of Canada): Organization Planning",
+  "licence": "Open Government Licence – Canada 2.0",
+  "url": "https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "early start (ES) date",
+  "aliases": [],
+  "definition": "The earliest time that a schedule activity may be commenced in the critical path method, given its remaining work, the data date, network logic and schedule constraints.",
+  "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada), adapted",
+  "source": "TERMIUM Plus (Government of Canada): Organization Planning",
+  "licence": "Open Government Licence – Canada 2.0",
+  "url": "https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "earned value",
+  "aliases": [
+   "EV",
+   "budgeted cost of work performed",
+   "BCWP"
+  ],
+  "definition": "The work done, valued at the budget approved for it.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "earned value management",
+  "aliases": [
+   "EVM"
+  ],
+  "definition": "A methodology that measures project performance and progress by combining measurements of scope, schedule, cost and resources.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "effort",
+  "aliases": [],
+  "definition": "The number of labour units required to complete an activity or other project element, usually expressed as staff hours, days or weeks.",
+  "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada), adapted",
+  "source": "TERMIUM Plus (Government of Canada): Organization Planning",
+  "licence": "Open Government Licence – Canada 2.0",
+  "url": "https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "elicitation",
+  "aliases": [],
+  "definition": "The work of obtaining information from stakeholders and elsewhere to understand the business need, the problem or opportunity to be tackled, and what stakeholders prefer and require of the solution.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "emergent risk",
+  "aliases": [],
+  "definition": "A risk that appears during the work and that nobody could have identified earlier.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "emotional intelligence",
+  "aliases": [],
+  "definition": "Ability to identify, assess, and control the emotions of oneself, of others, and of groups.",
+  "attribution": "Source: Wikidata, Q191591 (English description), https://www.wikidata.org/wiki/Q191591, CC0 1.0",
+  "source": "Wikidata (description): Q191591",
+  "licence": "CC0 1.0",
+  "url": "https://www.wikidata.org/wiki/Q191591",
+  "adapted": false,
+  "original": false
+ },
+ {
+  "term": "enterprise agility",
+  "aliases": [],
+  "definition": "An organization's capacity to detect and quickly respond to change across its people, processes, structures and strategy, applying agile principles outside software and single teams.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "enterprise environmental factors",
+  "aliases": [
+   "EEFs"
+  ],
+  "definition": "Circumstances that the team cannot directly control but that shape, limit or steer a project, program or portfolio.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "enterprise risk management",
+  "aliases": [],
+  "definition": "An organization-wide approach to managing risk, in line with its culture, capability and strategy, for creating and sustaining value.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "epic",
+  "aliases": [],
+  "definition": "A large body of related work, aimed at specific business outcomes, whose requirements are arranged in a hierarchy.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "estimate at completion",
+  "aliases": [
+   "EAC"
+  ],
+  "definition": "A projection of the final cost of the work: costs to date plus the estimate of costs for all remaining work.",
+  "attribution": "Source: NASA, Earned Value Management (EVM) Implementation Handbook (2018), https://ntrs.nasa.gov/citations/20180001499, public domain (U.S. Government work), adapted",
+  "source": "NASA EVM Implementation Handbook (2018), Appendix H: Estimate at Completion (EAC)",
+  "licence": "Public domain (U.S. Government work)",
+  "url": "https://ntrs.nasa.gov/citations/20180001499",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "estimate to complete",
+  "aliases": [
+   "ETC"
+  ],
+  "definition": "A projection of the cost of the unaccomplished work to complete the project.",
+  "attribution": "Source: NASA, Earned Value Management (EVM) Implementation Handbook (2018), https://ntrs.nasa.gov/citations/20180001499, public domain (U.S. Government work), adapted",
+  "source": "NASA EVM Implementation Handbook (2018), Appendix H: Estimate to Complete (ETC)",
+  "licence": "Public domain (U.S. Government work)",
+  "url": "https://ntrs.nasa.gov/citations/20180001499",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "expected monetary value",
+  "aliases": [
+   "EMV"
+  ],
+  "definition": "The estimated worth in money of an uncertain outcome: the sum of each possible result's value times its probability.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "expert systems",
+  "aliases": [],
+  "definition": "Computer systems emulating the decision-making ability of a human expert by drawing inferences from a knowledge base built beforehand; an early branch of artificial intelligence.",
+  "attribution": "Source: Wikipedia, \"Expert system\" (rev. 1378090566), https://en.wikipedia.org/w/index.php?oldid=1378090566, CC BY-SA 4.0, adapted; Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada), adapted",
+  "source": "Wikipedia: Expert system; TERMIUM Plus (Government of Canada): Software",
+  "licence": "CC BY-SA 4.0; Open Government Licence – Canada 2.0",
+  "url": "https://en.wikipedia.org/w/index.php?oldid=1378090566",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "fast tracking",
+  "aliases": [
+   "fast-tracking"
+  ],
+  "definition": "A schedule compression technique that overlaps activities or phases that would otherwise run in sequence.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "feasibility analysis",
+  "aliases": [],
+  "definition": "A study of whether a proposed solution to a business need is practical in operation, technology, cost-effectiveness and/or timing; it may end in a recommendation.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "feature",
+  "aliases": [],
+  "definition": "A group of related requirements or functions that together bring the organization value.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "feature-driven development",
+  "aliases": [
+   "FDD"
+  ],
+  "definition": "A lightweight or agile method for developing software, driven from the perspective of functionality (features) valued by the client.",
+  "attribution": "Source: Wikipedia, \"Feature-driven development\" (rev. 1316374257), https://en.wikipedia.org/w/index.php?oldid=1316374257, CC BY-SA 4.0, adapted",
+  "source": "Wikipedia: Feature-driven development",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://en.wikipedia.org/w/index.php?oldid=1316374257",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "financial management plan",
+  "aliases": [],
+  "definition": "Within a project or program management plan, the component on how money is planned, organized and controlled.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "finish-to-finish",
+  "aliases": [
+   "FF"
+  ],
+  "definition": "A logic relationship: a successor activity cannot finish until the predecessor activity finishes.",
+  "attribution": "Source: U.S. Government Accountability Office, GAO Schedule Assessment Guide (GAO-16-89G, 2015), https://www.gao.gov/products/gao-16-89g, public domain (U.S. Government work), adapted",
+  "source": "U.S. GAO, Schedule Assessment Guide (GAO-16-89G), Glossary: Finish-to-finish (F–F)",
+  "licence": "Public domain (U.S. Government work)",
+  "url": "https://www.gao.gov/products/gao-16-89g",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "finish-to-start",
+  "aliases": [
+   "FS"
+  ],
+  "definition": "A logic relationship: a successor activity cannot start until the predecessor activity finishes.",
+  "attribution": "Source: U.S. Government Accountability Office, GAO Schedule Assessment Guide (GAO-16-89G, 2015), https://www.gao.gov/products/gao-16-89g, public domain (U.S. Government work), adapted",
+  "source": "U.S. GAO, Schedule Assessment Guide (GAO-16-89G), Glossary: Finish-to-start (F–S)",
+  "licence": "Public domain (U.S. Government work)",
+  "url": "https://www.gao.gov/products/gao-16-89g",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "firm-fixed-price contract",
+  "aliases": [],
+  "definition": "A fixed-price contract in which no variation of bid price is allowed, excluding any allowance for variations in the cost of the seller's work.",
+  "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada), adapted",
+  "source": "TERMIUM Plus (Government of Canada): Execution of Work (Construction)",
+  "licence": "Open Government Licence – Canada 2.0",
+  "url": "https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "fixed duration",
+  "aliases": [],
+  "definition": "An activity whose duration stays the same however many people or resources are put on it.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "fixed formula method",
+  "aliases": [],
+  "definition": "A way of crediting earned value: a fixed share of a work package's budget when the work starts, the rest when it is finished.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "fixed-price contract",
+  "aliases": [],
+  "definition": "A contract for the supply of defined goods or services, such that the agreed payment will not be adjusted to reflect the costs incurred or time expended by the contractor.",
+  "attribution": "Source: Wikipedia, \"Fixed-price contract\" (rev. 1352403946), https://en.wikipedia.org/w/index.php?oldid=1352403946, CC BY-SA 4.0, adapted",
+  "source": "Wikipedia: Fixed-price contract",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://en.wikipedia.org/w/index.php?oldid=1352403946",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "fixed-price-incentive-fee contract",
+  "aliases": [],
+  "definition": "A fixed-price contract under which the seller is paid the agreed price and can earn an extra fee by meeting defined performance targets.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "fixed-price-with-economic-price-adjustment contract",
+  "aliases": [],
+  "definition": "A fixed-price contract with a special clause that lets the final price be adjusted, as agreed in advance, when conditions change, such as inflation or the cost of particular commodities.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "flow",
+  "aliases": [],
+  "definition": "The degree to which work moves efficiently through a process or framework.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "forecast",
+  "aliases": [],
+  "definition": "A prediction or estimate of the future state of a project, made from the information known when it is prepared.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "forward pass",
+  "aliases": [],
+  "definition": "A calculation in a schedule network that determines the early start and early finish times by adding durations successively through the network, starting at day one or at a given date.",
+  "attribution": "Source: U.S. Government Accountability Office, GAO Schedule Assessment Guide (GAO-16-89G, 2015), https://www.gao.gov/products/gao-16-89g, public domain (U.S. Government work), adapted",
+  "source": "U.S. GAO, Schedule Assessment Guide (GAO-16-89G), Glossary: Forward pass",
+  "licence": "Public domain (U.S. Government work)",
+  "url": "https://www.gao.gov/products/gao-16-89g",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "framework",
+  "aliases": [],
+  "definition": "A basic model of the ideas or facts that underpin an approach.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "free float",
+  "aliases": [],
+  "definition": "The portion of an activity's total float that is available before the activity's delay makes any successor start later than its early start date or breaks a schedule constraint.",
+  "attribution": "Source: U.S. Government Accountability Office, GAO Schedule Assessment Guide (GAO-16-89G, 2015), https://www.gao.gov/products/gao-16-89g, public domain (U.S. Government work), adapted",
+  "source": "U.S. GAO, Schedule Assessment Guide (GAO-16-89G), Glossary: Free float",
+  "licence": "Public domain (U.S. Government work)",
+  "url": "https://www.gao.gov/products/gao-16-89g",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "functional organization",
+  "aliases": [],
+  "definition": "An organizational structure that uses the principle of specialization based on function or role; a project manager has little authority to assign work or commit resources.",
+  "attribution": "Source: Wikipedia, \"Functional organization\" (rev. 1368894305), https://en.wikipedia.org/w/index.php?oldid=1368894305, CC BY-SA 4.0, adapted",
+  "source": "Wikipedia: Functional organization",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://en.wikipedia.org/w/index.php?oldid=1368894305",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "Gantt chart",
+  "aliases": [],
+  "definition": "A schedule bar chart: activities on one axis, dates on the other, each activity a bar from start date to finish date.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "generalizing specialist",
+  "aliases": [],
+  "definition": "A team member with deep skill in one discipline, broad ability in others and readiness to learn, to meet the team's needs.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "go/no-go decision",
+  "aliases": [],
+  "definition": "The decision on whether or not to proceed with an initiative, usually after analyzing its current state.",
+  "attribution": "Source: Defense Acquisition University, Glossary of Defense Acquisition Acronyms and Terms, 14th ed. (2011), https://webarchive.library.unt.edu/web/20161207082643/http://www.dau.mil/pubscats/PubsCats/Glossary%2014th%20edition%20July%202011.pdf, public domain (U.S. Government work), adapted",
+  "source": "DAU Glossary of Defense Acquisition Acronyms and Terms, 14th ed. (2011): Go/No Go",
+  "licence": "Public domain (U.S. Government work)",
+  "url": "https://webarchive.library.unt.edu/web/20161207082643/http://www.dau.mil/pubscats/PubsCats/Glossary%2014th%20edition%20July%202011.pdf",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "governance",
+  "aliases": [],
+  "definition": "The framework of established policies, practices and documents that directs an organization and enables its work.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "ground rules",
+  "aliases": [],
+  "definition": "Expectations about what conduct is acceptable from project team members.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "human-in-the-loop",
+  "aliases": [
+   "HITL"
+  ],
+  "definition": "An approach in which people oversee AI processes, to keep them within ethical standards, and answer for their outcomes.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "human-to-AI",
+  "aliases": [],
+  "definition": "A partnership in which people and AI strengthen each other, the AI helping people decide better.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "hybrid approach",
+  "aliases": [],
+  "definition": "An approach mixing elements of predictive and adaptive approaches, useful when the requirements carry uncertainty or risk.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "impact",
+  "aliases": [],
+  "definition": "The measure of the effect of a risk, should it occur, on the objectives.",
+  "attribution": "Source: European Commission, PM² Project Management Methodology Guide 3.1 (© European Union, 2023), https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1, CC BY 4.0, adapted",
+  "source": "PM² Guide 3.1, Appendix G (European Commission): Impact (risk, issue or change)",
+  "licence": "CC BY 4.0",
+  "url": "https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "impact mapping",
+  "aliases": [],
+  "definition": "A technique for strategic planning that gives the organization a roadmap while it builds new products.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "impediment",
+  "aliases": [],
+  "definition": "An obstacle standing between the team and its objectives; also called a blocker.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "increment",
+  "aliases": [],
+  "definition": "A working deliverable, tested and accepted, that forms part of everything the project delivers.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "incremental approach",
+  "aliases": [],
+  "definition": "An adaptive way of developing a deliverable in successive pieces, each adding functionality, until it has just enough capability to be considered finished.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "information radiator",
+  "aliases": [],
+  "definition": "A display located where passers-by can see it. It presents an up-to-date summary of the work.",
+  "attribution": "Source: Wikipedia, \"Agile software development\" (rev. 1381595536), https://en.wikipedia.org/w/index.php?oldid=1381595536, CC BY-SA 4.0, adapted",
+  "source": "Wikipedia: Agile software development, section Information radiator",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://en.wikipedia.org/w/index.php?oldid=1381595536",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "integration",
+  "aliases": [],
+  "definition": "The coordination of all parts of a project so that they work together effectively and the project meets its objectives.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "issue",
+  "aliases": [],
+  "definition": "A condition or situation that already exists and may affect one or more objectives.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "issue log",
+  "aliases": [],
+  "definition": "A project document that records and tracks issues.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "iteration",
+  "aliases": [],
+  "definition": "A short development cycle that delivers a product or deliverable, or brings it closer to completion.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "iteration plan",
+  "aliases": [],
+  "definition": "The detailed plan for the iteration under way.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "iteration planning",
+  "aliases": [],
+  "definition": "A meeting before an iteration in which the team clarifies the details, acceptance criteria and effort of the backlog items it will commit to.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "iteration review",
+  "aliases": [],
+  "definition": "The meeting at the close of an iteration to show the work completed during it.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "iterative approach",
+  "aliases": [],
+  "definition": "A way of developing a deliverable that begins with a simple first version and refines it repeatedly, adding features, until it is complete.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "kanban board",
+  "aliases": [],
+  "definition": "A visual management tool to track work as it progresses through stages of a process, helping the team spot bottlenecks and overcommitment and improve its workflow.",
+  "attribution": "Source: Wikipedia, \"Kanban board\" (rev. 1380558605), https://en.wikipedia.org/w/index.php?oldid=1380558605, CC BY-SA 4.0, adapted",
+  "source": "Wikipedia: Kanban board",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://en.wikipedia.org/w/index.php?oldid=1380558605",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "key performance indicator",
+  "aliases": [
+   "KPI"
+  ],
+  "definition": "A performance measurement used to evaluate the success of an organization in achieving defined objectives, chosen by its leaders to track progress; KPIs provide a focus for strategic alignment.",
+  "attribution": "Source: Wikipedia, \"Performance indicator\" (rev. 1378365870), https://en.wikipedia.org/w/index.php?oldid=1378365870, CC BY-SA 4.0, adapted",
+  "source": "Wikipedia: Performance indicator",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://en.wikipedia.org/w/index.php?oldid=1378365870",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "kickoff meeting",
+  "aliases": [],
+  "definition": "The meeting at a project's start where the team and key stakeholders set expectations, reach a common understanding and formally begin the work.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "lag",
+  "aliases": [],
+  "definition": "The time a successor activity must wait relative to its predecessor.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "late finish (LF) date",
+  "aliases": [],
+  "definition": "The latest time that a schedule activity may be finished in the critical path method, allowing for unfinished work, network logic, project completion date and schedule constraints.",
+  "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada), adapted",
+  "source": "TERMIUM Plus (Government of Canada): Organization Planning",
+  "licence": "Open Government Licence – Canada 2.0",
+  "url": "https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "late start (LS) date",
+  "aliases": [],
+  "definition": "The latest date on which the unfinished part of an activity can start in the critical path method, given the network logic, the project's completion date and schedule constraints.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "lead",
+  "aliases": [],
+  "definition": "The time by which a successor activity may start earlier than its dependency on a predecessor would allow.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "lessons learned",
+  "aliases": [],
+  "definition": "Knowledge gained in a project about how its situations were or should have been handled, kept to improve future performance.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "lessons learned register",
+  "aliases": [],
+  "definition": "A project's document or repository recording what was learned during the project, a phase or an iteration, so that the team and organization perform better in future.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "level of effort",
+  "aliases": [],
+  "definition": "A supporting activity that yields no definite end products; its progress is measured by elapsed time.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "logical relationship",
+  "aliases": [],
+  "definition": "A finish-to-start, finish-to-finish, start-to-start or start-to-finish dependency linking two activities, or one activity and a milestone.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "make-or-buy analysis and decisions",
+  "aliases": [],
+  "definition": "The study of a product's requirements against the options, including making or buying it, and the resulting choice of whether the project team does the work or buys it from outside.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "management reserve",
+  "aliases": [],
+  "definition": "Time or money kept by management outside the schedule and cost baselines and released for unforeseen work within the scope of a project, program or portfolio.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "matrix organization",
+  "aliases": [],
+  "definition": "An organizational structure where project and functional managers temporarily share the authority to allocate work and resources.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "method",
+  "aliases": [],
+  "definition": "A way of reaching an outcome, an output, a result or a project deliverable.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "methodology",
+  "aliases": [],
+  "definition": "A system of methods, principles, and rules used in a discipline.",
+  "attribution": "Source: Wikidata, Q185698 (English description), https://www.wikidata.org/wiki/Q185698, CC0 1.0, adapted",
+  "source": "Wikidata (description): Q185698",
+  "licence": "CC0 1.0",
+  "url": "https://www.wikidata.org/wiki/Q185698",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "milestone",
+  "aliases": [],
+  "definition": "A significant point or event in a project, program or portfolio.",
+  "attribution": "Source: European Commission, PM² Project Management Methodology Guide 3.1 (© European Union, 2023), https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1, CC BY 4.0, adapted",
+  "source": "PM² Guide 3.1, Appendix G (European Commission): Milestones",
+  "licence": "CC BY 4.0",
+  "url": "https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "milestone schedule",
+  "aliases": [],
+  "definition": "A schedule showing the milestones and their planned dates.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "mind mapping",
+  "aliases": [],
+  "definition": "A technique that gathers ideas from individual brainstorming into one map, showing where understanding agrees or differs and generating new ideas.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "minimum business increment",
+  "aliases": [
+   "MBI"
+  ],
+  "definition": "The smallest releasable slice of functionality with value to the business, helping the organization obtain that value quickly.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "minimum marketable feature",
+  "aliases": [
+   "MMF"
+  ],
+  "definition": "A product with just the features needed to be marketable, to test an idea's viability quickly with real users.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "minimum marketable product",
+  "aliases": [
+   "MMP"
+  ],
+  "definition": "The leanest product release that can go on sale with the features customers need to pay for or adopt it; aimed at launch, it seeks market value early.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "minimum viable product",
+  "aliases": [
+   "MVP"
+  ],
+  "definition": "A version of a product with just enough features to be usable by early customers, to learn from their feedback whether the product is worth building.",
+  "attribution": "Source: Wikipedia, \"Minimum viable product\" (rev. 1364501649), https://en.wikipedia.org/w/index.php?oldid=1364501649, CC BY-SA 4.0, adapted",
+  "source": "Wikipedia: Minimum viable product",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://en.wikipedia.org/w/index.php?oldid=1364501649",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "model",
+  "aliases": [],
+  "definition": "A visual representation, drawn to a set of conventions, that organizes and conveys large amounts of abstract and concrete information efficiently.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "modeling",
+  "aliases": [],
+  "definition": "Building simplified representations of a system, a solution or a deliverable, such as a prototype, a diagram or a storyboard.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "Monte Carlo analysis/simulation",
+  "aliases": [],
+  "definition": "A technique that performs a simulation many times to calculate a distribution of likely results, showing the possible effect of risk and uncertainty.",
+  "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada), adapted",
+  "source": "TERMIUM Plus (Government of Canada): Management Operations (General)",
+  "licence": "Open Government Licence – Canada 2.0",
+  "url": "https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "most likely duration",
+  "aliases": [],
+  "definition": "The duration an activity is most likely to take, estimated from every known factor that could affect its performance.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "multicriteria decision analysis",
+  "aliases": [],
+  "definition": "A systematic, analytical technique that ranks many ideas in a decision matrix against agreed criteria such as risk, uncertainty and value.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "multipoint estimating",
+  "aliases": [],
+  "definition": "A way of estimating an activity's cost or duration as a simple or weighted average of its optimistic, most likely and pessimistic values, when a single estimate would be uncertain.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "near-critical activity",
+  "aliases": [],
+  "definition": "An activity whose total float experts judge low, with no fixed threshold.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "near-critical path",
+  "aliases": [],
+  "definition": "A chain of activities with little float that becomes a critical path if that float runs out.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "network logic",
+  "aliases": [],
+  "definition": "The collection of activity dependencies making up a project network diagram.",
+  "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada)",
+  "source": "TERMIUM Plus (Government of Canada): Organization Planning",
+  "licence": "Open Government Licence – Canada 2.0",
+  "url": "https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa",
+  "adapted": false,
+  "original": false
+ },
+ {
+  "term": "network path",
+  "aliases": [],
+  "definition": "A series of connected activities in a project network diagram.",
+  "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada), adapted",
+  "source": "TERMIUM Plus (Government of Canada): Organization Planning",
+  "licence": "Open Government Licence – Canada 2.0",
+  "url": "https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "node",
+  "aliases": [],
+  "definition": "A junction in a schedule network diagram where dependency lines meet.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "objective",
+  "aliases": [],
+  "definition": "What work is aimed at: a strategic position, a purpose, a result, a product or a service.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "objectives and key results",
+  "aliases": [
+   "OKRs"
+  ],
+  "definition": "A goal-setting framework to define measurable goals and track their outcomes.",
+  "attribution": "Source: Wikipedia, \"Objectives and key results\" (rev. 1371786932), https://en.wikipedia.org/w/index.php?oldid=1371786932, CC BY-SA 4.0, adapted",
+  "source": "Wikipedia: Objectives and key results",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://en.wikipedia.org/w/index.php?oldid=1371786932",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "opportunity",
+  "aliases": [],
+  "definition": "A risk that would benefit one or more objectives of a project, program or portfolio.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "optimistic duration",
+  "aliases": [],
+  "definition": "An activity's shortest estimated duration, given every known factor that might affect the work.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "organizational breakdown structure",
+  "aliases": [],
+  "definition": "An organization chart that shows which organizational units are responsible for which project work items.",
+  "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada), adapted",
+  "source": "TERMIUM Plus (Government of Canada): Organization Planning",
+  "licence": "Open Government Licence – Canada 2.0",
+  "url": "https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "organizational change management",
+  "aliases": [],
+  "definition": "A comprehensive, structured and cyclic approach to moving people, groups and organizations from their present state to a future one with intended business benefits.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "organizational process assets",
+  "aliases": [
+   "OPAs"
+  ],
+  "definition": "The performing organization's own plans, policies, procedures, processes, regulations and knowledge bases, used in its work.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "organizational project management",
+  "aliases": [
+   "OPM"
+  ],
+  "definition": "A framework combining the management of projects, programs and portfolios with organizational enablers to achieve strategic objectives.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "organizational project management maturity",
+  "aliases": [],
+  "definition": "The degree of an organization's capability to achieve intended strategic results predictably, controllably and dependably.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "outcome",
+  "aliases": [],
+  "definition": "The final result or consequence of carrying out a process or project.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "output",
+  "aliases": [],
+  "definition": "The product, result or service a process produces, which may be input to another process.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "overall risk",
+  "aliases": [],
+  "definition": "The effect uncertainty has on a whole project, program or portfolio, as opposed to any single risk.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "parametric estimating",
+  "aliases": [],
+  "definition": "Estimating cost or duration with an algorithm that applies historical data to project parameters.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "path convergence",
+  "aliases": [],
+  "definition": "Several parallel activities joining with a single successor activity.",
+  "attribution": "Source: U.S. Government Accountability Office, GAO Schedule Assessment Guide (GAO-16-89G, 2015), https://www.gao.gov/products/gao-16-89g, public domain (U.S. Government work)",
+  "source": "U.S. GAO, Schedule Assessment Guide (GAO-16-89G), Glossary: Path convergence",
+  "licence": "Public domain (U.S. Government work)",
+  "url": "https://www.gao.gov/products/gao-16-89g",
+  "adapted": false,
+  "original": false
+ },
+ {
+  "term": "path divergence",
+  "aliases": [],
+  "definition": "A single activity branching into several successor activities.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "percent complete",
+  "aliases": [],
+  "definition": "The estimated percentage of the work on an activity or WBS component that is done.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "performance measurement baseline",
+  "aliases": [],
+  "definition": "The baselines for scope, schedule and cost, combined into one reference for managing, measuring and controlling project execution.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "performing organization",
+  "aliases": [],
+  "definition": "The enterprise whose people most directly do the work of a project or program.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "personas",
+  "aliases": [],
+  "definition": "An archetypal user, described by goals, motivations and typical personal traits, who stands for a group of similar end users.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "pessimistic duration",
+  "aliases": [],
+  "definition": "An activity's longest estimated duration, given every known factor that might affect the work.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "PESTLE analysis",
+  "aliases": [],
+  "definition": "A strategic planning tool that systematically reviews a project's external political, economic, sociocultural, technological, environmental and legal factors for potential opportunities and threats.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "phase gate",
+  "aliases": [],
+  "definition": "An end-of-phase review deciding whether the project or program continues, continues with changes, or ends.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "plan-do-check-act",
+  "aliases": [
+   "PDCA"
+  ],
+  "definition": "An iterative management method for the control and continuous improvement of processes and products.",
+  "attribution": "Source: Wikidata, Q820214 (English description), https://www.wikidata.org/wiki/Q820214, CC0 1.0, adapted",
+  "source": "Wikidata (description): Q820214",
+  "licence": "CC0 1.0",
+  "url": "https://www.wikidata.org/wiki/Q820214",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "planned value",
+  "aliases": [
+   "PV",
+   "budgeted cost of work scheduled",
+   "BCWS"
+  ],
+  "definition": "The approved budget allocated to scheduled work.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "portfolio",
+  "aliases": [],
+  "definition": "A set of projects, programs and operations managed together to maximize value and achieve strategic objectives.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "portfolio balancing",
+  "aliases": [],
+  "definition": "Adjusting a portfolio's mix of components so it best serves its organization's strategic objectives.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "portfolio charter",
+  "aliases": [],
+  "definition": "The document a sponsor issues to authorize a portfolio, define its structure and link it to its organization's strategic objectives.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "portfolio management",
+  "aliases": [],
+  "definition": "Managing one or more portfolios centrally so the organization meets its strategic objectives.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "portfolio management plan",
+  "aliases": [],
+  "definition": "The document setting out how a portfolio is organized, tracked and controlled.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "portfolio manager",
+  "aliases": [],
+  "definition": "The individual or team the performing organization assigns to set up, balance, monitor and control a portfolio's components to meet strategic business objectives.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "precedence diagramming method",
+  "aliases": [],
+  "definition": "A scheduling technique that draws activities as nodes linked by logical relationships showing their sequence.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "predecessor activity",
+  "aliases": [],
+  "definition": "An activity that the schedule logic places before one that depends on it.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "predictive approach",
+  "aliases": [],
+  "definition": "A development approach fixing scope, schedule and cost early in the life cycle.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "preventive action",
+  "aliases": [],
+  "definition": "A deliberate action that keeps future project work performing in line with the project management plan.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "probability and impact matrix",
+  "aliases": [],
+  "definition": "A grid placing each risk by its likelihood and its possible impact on project objectives.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "process",
+  "aliases": [],
+  "definition": "A set of activities used to convert inputs into outputs to generate outcomes.",
+  "attribution": "Source: NASA, NASA Systems Engineering Handbook (SP-2016-6105 Rev2, 2016), https://www.nasa.gov/wp-content/uploads/2018/09/nasa_systems_engineering_handbook_0.pdf, public domain (U.S. Government work), adapted",
+  "source": "NASA Systems Engineering Handbook (SP-2016-6105 Rev2), Appendix B: Process",
+  "licence": "Public domain (U.S. Government work)",
+  "url": "https://www.nasa.gov/wp-content/uploads/2018/09/nasa_systems_engineering_handbook_0.pdf",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "process flow",
+  "aliases": [],
+  "definition": "A business analysis diagram of a human user's steps in a process while interacting with a solution; a system's steps are shown in a system flow.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "procurement",
+  "aliases": [],
+  "definition": "Purchasing goods, services, or other works from external sources that a project needs to meet its objectives.",
+  "attribution": "Source: Wikipedia, \"Procurement\" (rev. 1381542678), https://en.wikipedia.org/w/index.php?oldid=1381542678, CC BY-SA 4.0, adapted",
+  "source": "Wikipedia (article lead): Procurement",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://en.wikipedia.org/w/index.php?oldid=1381542678",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "procurement management plan",
+  "aliases": [],
+  "definition": "Within the project or program management plan, the component describing how the team will obtain goods and services from beyond the performing organization.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "product",
+  "aliases": [],
+  "definition": "A quantifiable artifact produced as an end item or as a component.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "product backlog",
+  "aliases": [],
+  "definition": "An ordered, user-centred list of requirements that is maintained for a product.",
+  "attribution": "Source: Wikidata, Q15618663 (English description), https://www.wikidata.org/wiki/Q15618663, CC0 1.0, adapted",
+  "source": "Wikidata (description): Q15618663",
+  "licence": "CC0 1.0",
+  "url": "https://www.wikidata.org/wiki/Q15618663",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "product life cycle",
+  "aliases": [],
+  "definition": "The phases a product goes through, from conception through growth and maturity to decline or retirement.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "product management",
+  "aliases": [],
+  "definition": "Managing a product or service over its life cycle by integrating the people, processes, data and business systems that create, maintain and evolve it.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "product owner",
+  "aliases": [],
+  "definition": "The person who answers for the end product and is responsible for maximizing its value.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "product scope",
+  "aliases": [],
+  "definition": "A description of what a project's product, service or result is to offer: its features, functions and characteristics.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "product team",
+  "aliases": [],
+  "definition": "A cross-functional group that defines, builds and evolves a product, usually for its whole life, to bring value to customers and other stakeholders.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "program",
+  "aliases": [],
+  "definition": "A group of related projects managed in a coordinated way to obtain benefits that could not be achieved from their individual management. Programmes may also include related work outside its projects.",
+  "attribution": "Source: European Commission, PM² Project Management Methodology Guide 3.1 (© European Union, 2023), https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1, CC BY 4.0, adapted",
+  "source": "PM² Guide 3.1, Appendix G (European Commission): Programme",
+  "licence": "CC BY 4.0",
+  "url": "https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "program charter",
+  "aliases": [],
+  "definition": "The sponsor's document that authorizes a program's management team to use the organization's resources on it and links it to strategic goals of the organization.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "program evaluation and review technique",
+  "aliases": [
+   "PERT"
+  ],
+  "definition": "A technique that estimates project duration, when activity estimates are uncertain, from a weighted average of each activity's optimistic, most likely and pessimistic durations.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "program management",
+  "aliases": [],
+  "definition": "The process of managing several inter-dependent projects to better achieve the programme's strategic objectives and benefits.",
+  "attribution": "Source: European Commission, PM² Project Management Methodology Guide 3.1 (© European Union, 2023), https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1, CC BY 4.0",
+  "source": "PM² Guide 3.1, Appendix G (European Commission): Programme Management",
+  "licence": "CC BY 4.0",
+  "url": "https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1",
+  "adapted": false,
+  "original": false
+ },
+ {
+  "term": "program management office",
+  "aliases": [],
+  "definition": "A unit that standardizes a program's governance processes and helps share resources, methods, tools and techniques, maximizing the program's return on investment.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "program management plan",
+  "aliases": [],
+  "definition": "The document that combines the subsidiary plans of a program and sets out how its components will be controlled, integrated and managed.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "program manager",
+  "aliases": [],
+  "definition": "The designated individual with responsibility for and authority to accomplish program objectives, who leads the team or teams on behalf of the performing organization.",
+  "attribution": "Source: Defense Acquisition University, Glossary of Defense Acquisition Acronyms and Terms, 14th ed. (2011), https://webarchive.library.unt.edu/web/20161207082643/http://www.dau.mil/pubscats/PubsCats/Glossary%2014th%20edition%20July%202011.pdf, public domain (U.S. Government work), adapted",
+  "source": "DAU Glossary of Defense Acquisition Acronyms and Terms, 14th ed. (2011): Program Manager (PM)",
+  "licence": "Public domain (U.S. Government work)",
+  "url": "https://webarchive.library.unt.edu/web/20161207082643/http://www.dau.mil/pubscats/PubsCats/Glossary%2014th%20edition%20July%202011.pdf",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "progressive elaboration",
+  "aliases": [],
+  "definition": "Iteratively adding detail to the project management plan as information grows and estimates improve.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "project",
+  "aliases": [],
+  "definition": "A temporary undertaking to create value in a unique context.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "project budget",
+  "aliases": [],
+  "definition": "The total of a project's work package cost estimates plus its contingency and management reserves.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "project calendar",
+  "aliases": [],
+  "definition": "A calendar showing the days and shifts in which scheduled activities can be worked.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "project charter",
+  "aliases": [],
+  "definition": "A document initiated by the business sponsor that formally authorises the existence of the project and gives the Project Manager authority to use organisational resources.",
+  "attribution": "Source: European Commission, PM² Project Management Methodology Guide 3.1 (© European Union, 2023), https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1, CC BY 4.0, adapted",
+  "source": "PM² Guide 3.1, Appendix G (European Commission): Project Charter",
+  "licence": "CC BY 4.0",
+  "url": "https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "project governance",
+  "aliases": [],
+  "definition": "A framework of functions and processes that guides project management toward meeting or exceeding the project's objectives.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "project life cycle",
+  "aliases": [],
+  "definition": "The phases a project goes through from start to finish.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "project management",
+  "aliases": [],
+  "definition": "Applying knowledge, skills, techniques and tools to a project's activities so that it meets or exceeds its intended value.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "project management information system",
+  "aliases": [
+   "PMIS"
+  ],
+  "definition": "An information system, typically one or more software applications and a methodical process, for collecting, integrating and distributing project information.",
+  "attribution": "Source: Wikipedia, \"Project management information system\" (rev. 1261635631), https://en.wikipedia.org/w/index.php?oldid=1261635631, CC BY-SA 4.0, adapted",
+  "source": "Wikipedia: Project management information system",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://en.wikipedia.org/w/index.php?oldid=1261635631",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "project management office",
+  "aliases": [
+   "PMO"
+  ],
+  "definition": "A unit, usually a department or team, that centralizes an organization's portfolio, program and/or project management activities; its role varies by organization.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "project management plan",
+  "aliases": [],
+  "definition": "The document that sets out how a project will be carried out, monitored, controlled and closed.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "project management team",
+  "aliases": [],
+  "definition": "The project team members directly involved in managing the project.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "project manager",
+  "aliases": [],
+  "definition": "A person formally appointed to manage a project and lead its team, responsible for achieving project objectives.",
+  "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada), adapted",
+  "source": "TERMIUM Plus (Government of Canada): Federal Administration",
+  "licence": "Open Government Licence – Canada 2.0",
+  "url": "https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "project organization chart",
+  "aliases": [],
+  "definition": "A diagram showing a specific project's team members and their relationships.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "project phase",
+  "aliases": [],
+  "definition": "A set of logically related activities that ends when one or more deliverables are completed.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "project schedule",
+  "aliases": [],
+  "definition": "The result of a schedule model: linked activities with their planned dates and durations, plus milestones and resources.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "project schedule network diagram",
+  "aliases": [],
+  "definition": "A diagram showing the dependencies between project schedule activities.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "project scope",
+  "aliases": [],
+  "definition": "The work needed to deliver the defined features and functions of a product, service or other result.",
+  "attribution": "Source: Wikipedia, \"Scope (project management)\" (rev. 1313529524), https://en.wikipedia.org/w/index.php?oldid=1313529524, CC BY-SA 4.0, adapted",
+  "source": "Wikipedia: Scope (project management)",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://en.wikipedia.org/w/index.php?oldid=1313529524",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "project scope statement",
+  "aliases": [],
+  "definition": "A document describing a project's scope, main deliverables, assumptions and constraints.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "project success",
+  "aliases": [],
+  "definition": "The shared view of a project's intended beneficiaries, participants and other stakeholders that the value it delivered justified the effort and cost.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "project team",
+  "aliases": [],
+  "definition": "The people doing a project's work to meet its objectives.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "projectized organization",
+  "aliases": [],
+  "definition": "An organizational form in which project managers have full authority over work assignments and resources.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "psychological safety",
+  "aliases": [],
+  "definition": "A team's shared belief that members can speak up, voice ideas or concerns and take risks without rejection or other negative consequences.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "qualitative risk analysis",
+  "aliases": [],
+  "definition": "Assessing risks by characteristics such as probability, impact on objectives, manageability, timing of effects, links with other risks, and shared causes or effects.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "quality audit",
+  "aliases": [],
+  "definition": "A systematic, independent check of whether project activities follow the organization's and the project's policies, processes and procedures.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "quality management plan",
+  "aliases": [],
+  "definition": "The part of the project or program management plan describing how organizational policies, procedures and guidelines are applied to meet quality objectives.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "quantitative risk analysis",
+  "aliases": [],
+  "definition": "Numerical estimation of risk effects: the probability, impact and severity of individual risks and/or their combined effect on overall objectives, to size reserves and choose responses.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "RACI matrix",
+  "aliases": [
+   "RACI"
+  ],
+  "definition": "A responsibility assignment matrix that marks each stakeholder's part in each activity as Responsible, Accountable, Consulted or Informed.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "readiness assessment",
+  "aliases": [],
+  "definition": "An assessment, as a solution nears deployment, of how ready the organization is for the transition and to integrate and sustain it.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "regression analysis",
+  "aliases": [],
+  "definition": "A statistical method for estimating the relationship between a dependent (output) variable and one or more independent (input) variables.",
+  "attribution": "Source: Wikipedia, \"Regression analysis\" (rev. 1378914971), https://en.wikipedia.org/w/index.php?oldid=1378914971, CC BY-SA 4.0, adapted",
+  "source": "Wikipedia: Regression analysis",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://en.wikipedia.org/w/index.php?oldid=1378914971",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "relative estimating",
+  "aliases": [],
+  "definition": "Estimating work by comparing it with similar work, weighing effort, complexity and uncertainty.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "release",
+  "aliases": [],
+  "definition": "One or more components, from one or more products, that go into production together.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "release plan",
+  "aliases": [],
+  "definition": "A plan stating which features, outcomes and/or delivery dates to expect over several iterations.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "release planning",
+  "aliases": [],
+  "definition": "The process of planning, at a high level, the release or handover of a product, a deliverable or an increment of value.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "requirement",
+  "aliases": [],
+  "definition": "A condition or capability that must be met or possessed by a product, a service or a result to fulfill a business need.",
+  "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada), adapted",
+  "source": "TERMIUM Plus (Government of Canada): Informatics",
+  "licence": "Open Government Licence – Canada 2.0",
+  "url": "https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "requirements management plan",
+  "aliases": [],
+  "definition": "The part of the project or program management plan on analyzing, recording and managing requirements.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "requirements traceability matrix",
+  "aliases": [],
+  "definition": "A table tracing each product requirement back to its origin and forward to the deliverables that fulfill it.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "reserve",
+  "aliases": [],
+  "definition": "An allowance in the project management plan to absorb risks to cost and/or schedule, often qualified by the risks it covers, as in contingency or management reserve.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "reserve analysis",
+  "aliases": [],
+  "definition": "A technique that compares a project's remaining risk with its schedule and budget reserves to judge whether they suffice.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "residual risk",
+  "aliases": [],
+  "definition": "Risk that remains after the risk-response is implemented.",
+  "attribution": "Source: European Commission, PM² Project Management Methodology Guide 3.1 (© European Union, 2023), https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1, CC BY 4.0, adapted",
+  "source": "PM² Guide 3.1, Appendix G (European Commission): Residual Risk",
+  "licence": "CC BY 4.0",
+  "url": "https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "resource breakdown structure",
+  "aliases": [],
+  "definition": "A hierarchical list of resources related by function and resource type.",
+  "attribution": "Source: Wikipedia, \"Resource breakdown structure\" (rev. 1031842047), https://en.wikipedia.org/w/index.php?oldid=1031842047, CC BY-SA 4.0, adapted",
+  "source": "Wikipedia: Resource breakdown structure",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://en.wikipedia.org/w/index.php?oldid=1031842047",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "resource calendar",
+  "aliases": [],
+  "definition": "A calendar showing, for each resource, the workdays and shifts in which it is available.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "resource leveling",
+  "aliases": [],
+  "definition": "A resource optimization technique that adjusts the scheduled start of activities or the work assignments of resources to account for their availability; it can change the critical path.",
+  "attribution": "Source: U.S. Government Accountability Office, GAO Schedule Assessment Guide (GAO-16-89G, 2015), https://www.gao.gov/products/gao-16-89g, public domain (U.S. Government work), adapted",
+  "source": "U.S. GAO, Schedule Assessment Guide (GAO-16-89G), Glossary: Resource leveling",
+  "licence": "Public domain (U.S. Government work)",
+  "url": "https://www.gao.gov/products/gao-16-89g",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "resource management plan",
+  "aliases": [],
+  "definition": "The part of the project management plan on obtaining, assigning, monitoring and controlling project resources.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "resource optimization technique",
+  "aliases": [],
+  "definition": "A technique that moves the start and finish of activities to balance resource demand with supply, such as resource leveling or resource smoothing.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "resource smoothing",
+  "aliases": [],
+  "definition": "A resource optimization technique that moves activities within their free and total float, leaving the critical path unchanged.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "response strategy",
+  "aliases": [],
+  "definition": "The general course of action for an individual risk or for overall risk, divided into risk actions.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "responsibility",
+  "aliases": [],
+  "definition": "A delegable assignment under a project, program or portfolio management plan, binding its holder to carry it out.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "responsibility assignment matrix",
+  "aliases": [],
+  "definition": "A table that maps project resources to the work packages they are assigned to.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "result",
+  "aliases": [],
+  "definition": "An output of carrying out the processes and activities of project management.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "retrospective",
+  "aliases": [],
+  "definition": "A periodic workshop for improving the process and the product, in which participants review their work and results.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "review",
+  "aliases": [],
+  "definition": "An end-of-iteration meeting showing the work completed during that iteration.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "rework",
+  "aliases": [],
+  "definition": "Action on a nonconforming product to make it conform to requirements.",
+  "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada)",
+  "source": "TERMIUM Plus (Government of Canada): Quality Control (Management)",
+  "licence": "Open Government Licence – Canada 2.0",
+  "url": "https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa",
+  "adapted": false,
+  "original": false
+ },
+ {
+  "term": "risk",
+  "aliases": [],
+  "definition": "An uncertain condition or event (positive or negative) that, should it occur, will have an effect on the objectives of a project, program or portfolio.",
+  "attribution": "Source: European Commission, PM² Project Management Methodology Guide 3.1 (© European Union, 2023), https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1, CC BY 4.0, adapted",
+  "source": "PM² Guide 3.1, Appendix G (European Commission): Risk",
+  "licence": "CC BY 4.0",
+  "url": "https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "risk acceptance",
+  "aliases": [],
+  "definition": "A risk response strategy of acknowledging a risk but acting only if it occurs, usually by drawing on cost and/or schedule reserves and accepting less scope and/or quality.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "risk action",
+  "aliases": [],
+  "definition": "A specific task that carries out all or part of a response strategy for an individual risk or for overall risk.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "risk action owner",
+  "aliases": [],
+  "definition": "The person or people who must carry out the agreed risk actions for a particular risk; also called a response owner.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "risk analysis",
+  "aliases": [],
+  "definition": "A process to comprehend the nature of a risk and to determine how strongly it could affect objectives.",
+  "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada), adapted",
+  "source": "TERMIUM Plus (Government of Canada): Decision-Making Process",
+  "licence": "Open Government Licence – Canada 2.0",
+  "url": "https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "risk appetite",
+  "aliases": [],
+  "definition": "The level of risk that an organisation or individual is prepared to accept in the pursuit of its objectives.",
+  "attribution": "Source: European Commission, PM² Project Management Methodology Guide 3.1 (© European Union, 2023), https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1, CC BY 4.0, adapted",
+  "source": "PM² Guide 3.1, Appendix G (European Commission): Risk Appetite",
+  "licence": "CC BY 4.0",
+  "url": "https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "risk assessment",
+  "aliases": [],
+  "definition": "The process of identifying risks and analysing the likelihood of an identified event occurring and the impact if this event happens.",
+  "attribution": "Source: European Commission, PM² Project Management Methodology Guide 3.1 (© European Union, 2023), https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1, CC BY 4.0, adapted",
+  "source": "PM² Guide 3.1, Appendix G (European Commission): Risk Assessment",
+  "licence": "CC BY 4.0",
+  "url": "https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "risk attitude",
+  "aliases": [],
+  "definition": "A person's or group's stance toward uncertainty, whether stated or not, shaped by perception and shown in behavior.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "risk avoidance",
+  "aliases": [],
+  "definition": "A response strategy that removes a threat or shields the project, program or portfolio from its impact.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "risk breakdown structure",
+  "aliases": [],
+  "definition": "A hierarchy of the possible sources of risk.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "risk category",
+  "aliases": [],
+  "definition": "A grouping of possible causes of risk.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "risk enhancement",
+  "aliases": [],
+  "definition": "A response strategy that raises an opportunity's probability or impact.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "risk escalation",
+  "aliases": [],
+  "definition": "A response strategy that hands ownership of a risk outside the scope or beyond the team's authority to the appropriate party in the organization.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "risk exploiting",
+  "aliases": [],
+  "definition": "A response strategy in which the team makes sure an opportunity happens.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "risk exposure",
+  "aliases": [],
+  "definition": "The combined potential impact of all the risks to a project, program or portfolio, measured at a given moment.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "risk identification",
+  "aliases": [],
+  "definition": "The process of finding, recognizing and recording risks to objectives, with their characteristics.",
+  "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada), adapted",
+  "source": "TERMIUM Plus (Government of Canada): Management Operations",
+  "licence": "Open Government Licence – Canada 2.0",
+  "url": "https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "risk management",
+  "aliases": [],
+  "definition": "Identifying, analyzing, responding to and monitoring risks in a project, program or portfolio, or across the enterprise.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "risk management framework",
+  "aliases": [],
+  "definition": "A set of components that organize risk management's process and activities iteratively.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "risk management life cycle",
+  "aliases": [],
+  "definition": "A structured approach to examining risk as a whole across the enterprise and its portfolios, programs and projects.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "risk management plan",
+  "aliases": [],
+  "definition": "The document that describes how risks will be identified and managed, part of the project, program or portfolio management plan.",
+  "attribution": "Source: NASA, Earned Value Management (EVM) Implementation Handbook (2018), https://ntrs.nasa.gov/citations/20180001499, public domain (U.S. Government work), adapted",
+  "source": "NASA EVM Implementation Handbook (2018), Appendix H: Risk Management Plan (RMP)",
+  "licence": "Public domain (U.S. Government work)",
+  "url": "https://ntrs.nasa.gov/citations/20180001499",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "risk mitigation",
+  "aliases": [],
+  "definition": "A response strategy that lowers a threat's probability or impact.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "risk owner",
+  "aliases": [],
+  "definition": "The person accountable for the management and monitoring of a risk, including choosing and carrying out the response.",
+  "attribution": "Source: European Commission, PM² Project Management Methodology Guide 3.1 (© European Union, 2023), https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1, CC BY 4.0, adapted",
+  "source": "PM² Guide 3.1, Appendix G (European Commission): Risk Owner",
+  "licence": "CC BY 4.0",
+  "url": "https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "risk register",
+  "aliases": [],
+  "definition": "A repository recording each identified risk with its analysis, responses and owner.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "risk response",
+  "aliases": [],
+  "definition": "A measure, planned or taken, to address a particular threat or opportunity.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "risk sharing",
+  "aliases": [],
+  "definition": "A risk response strategy giving ownership of an opportunity, or of a threat, to the third party best able to capture it or absorb its impact.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "risk threshold",
+  "aliases": [],
+  "definition": "A limit on deviation from an objective, in line with the risk appetite of both the organization and its stakeholders.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "risk transference",
+  "aliases": [],
+  "definition": "A risk response strategy in which a third party takes on a threat's impact and ownership of the response.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "roadmap",
+  "aliases": [],
+  "definition": "A summary-level timeline showing milestones and other key events, such as reviews and decision points.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "rolling wave planning",
+  "aliases": [],
+  "definition": "Iterative planning in which near-term work is planned in detail and later work at a high level.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "root cause analysis",
+  "aliases": [],
+  "definition": "An analytical method for finding the underlying cause of a variance, a defect or a risk.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "rough order of magnitude (ROM) estimate",
+  "aliases": [],
+  "definition": "An early estimate of what a project, or part of it, will cost, with a wide accuracy range, giving a sense of scale and refined through progressive elaboration.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "rule-based systems",
+  "aliases": [],
+  "definition": "Early artificial intelligence systems in which hand-written rules check logical conditions to reach decisions.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "S-curve analysis",
+  "aliases": [],
+  "definition": "A technique that shows performance trends on a graph of cumulative cost over time.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "schedule baseline",
+  "aliases": [],
+  "definition": "The approved schedule model, against which actual results are compared; only formal change control can change it.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "schedule compression",
+  "aliases": [],
+  "definition": "A technique for shortening the schedule without cutting the project scope.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "schedule forecasts",
+  "aliases": [],
+  "definition": "Projections of the project's future conditions and events, based on the information at hand when the schedule is calculated.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "schedule management plan",
+  "aliases": [],
+  "definition": "The part of the project or program management plan that sets the criteria and activities for drawing up the schedule and monitoring and controlling it.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "schedule model",
+  "aliases": [],
+  "definition": "A model of how the project's activities are to be carried out, with their dependencies, durations and other planning data, from which the project schedule and related outputs are produced.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "schedule model analysis",
+  "aliases": [],
+  "definition": "The examination of the schedule model's output to improve the schedule.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "schedule network analysis",
+  "aliases": [],
+  "definition": "A technique that finds the earliest and latest start and finish dates for the unfinished parts of activities.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "schedule performance index",
+  "aliases": [
+   "SPI"
+  ],
+  "definition": "An index of schedule efficiency: earned value divided by planned value (EV/PV).",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "schedule variance",
+  "aliases": [
+   "SV"
+  ],
+  "definition": "Earned value minus planned value (SV = EV − PV), which measures schedule performance.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "scope baseline",
+  "aliases": [],
+  "definition": "The approved formal scope documents, against which actual results are compared; only formal change control can change them.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "scope creep",
+  "aliases": [],
+  "definition": "Uncontrolled growth of a product's or project's scope without adjusting its schedule, budget and resources.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "scope management plan",
+  "aliases": [],
+  "definition": "The part of the project or program management plan that states how scope is to be defined and developed, monitored and controlled, and validated.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "secondary risk",
+  "aliases": [],
+  "definition": "A risk caused directly by implementing a risk response.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "self-organizing team",
+  "aliases": [],
+  "definition": "A cross-functional team whose members take the lead in turn, as needed, to reach the team's goals.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "servant leadership",
+  "aliases": [],
+  "definition": "Leadership that serves team members, understanding and meeting their needs and development, so the team performs at its best.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "single-point estimating",
+  "aliases": [],
+  "definition": "A way of estimating that uses data to work out one value, the best guess.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "sourcing strategy plan",
+  "aliases": [],
+  "definition": "The part of the project management plan that sets out which work will be done in-house, outsourced, or both.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "spike",
+  "aliases": [],
+  "definition": "A timeboxed task or user story for exploring a question or clearing up a problem.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "sponsor",
+  "aliases": [
+   "project sponsor"
+  ],
+  "definition": "The person or group that backs a project, program or portfolio with resources and support and answers for enabling its success.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "sprint",
+  "aliases": [],
+  "definition": "A timeboxed period of a project in which a usable, potentially releasable product increment is built.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "sprint review",
+  "aliases": [],
+  "definition": "A collaborative review in which the team shows stakeholders the work finished in the sprint and gathers their feedback.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "stakeholder",
+  "aliases": [],
+  "definition": "Any individual, group or organisation that can affect, or be or feel affected by, a project, program or portfolio.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "stakeholder engagement",
+  "aliases": [],
+  "definition": "The activities through which stakeholders' support is built: identifying and analysing their needs, managing their expectations and communicating with them.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "stakeholder engagement assessment matrix",
+  "aliases": [],
+  "definition": "A grid setting each stakeholder's current engagement level beside the desired one.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "stakeholder engagement plan",
+  "aliases": [],
+  "definition": "The part of the project or program management plan that sets the strategies and actions needed to involve stakeholders productively in decision-making and execution.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "stakeholder register",
+  "aliases": [],
+  "definition": "A project document that records each stakeholder's details, assessment and classification.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "start-to-finish",
+  "aliases": [
+   "SF"
+  ],
+  "definition": "A logic relationship directing a successor activity not to finish until its predecessor starts.",
+  "attribution": "Source: U.S. Government Accountability Office, GAO Schedule Assessment Guide (GAO-16-89G, 2015), https://www.gao.gov/products/gao-16-89g, public domain (U.S. Government work), adapted",
+  "source": "U.S. GAO, Schedule Assessment Guide (GAO-16-89G), Glossary: Start-to-finish (S–F)",
+  "licence": "Public domain (U.S. Government work)",
+  "url": "https://www.gao.gov/products/gao-16-89g",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "start-to-start",
+  "aliases": [
+   "SS"
+  ],
+  "definition": "A logic relationship: a successor activity cannot start until the predecessor starts.",
+  "attribution": "Source: U.S. Government Accountability Office, GAO Schedule Assessment Guide (GAO-16-89G, 2015), https://www.gao.gov/products/gao-16-89g, public domain (U.S. Government work), adapted",
+  "source": "U.S. GAO, Schedule Assessment Guide (GAO-16-89G), Glossary: Start-to-start (S–S)",
+  "licence": "Public domain (U.S. Government work)",
+  "url": "https://www.gao.gov/products/gao-16-89g",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "statement of work",
+  "aliases": [
+   "SOW"
+  ],
+  "definition": "A narrative description of the work scope requirements for a project or contract.",
+  "attribution": "Source: NASA, Earned Value Management (EVM) Implementation Handbook (2018), https://ntrs.nasa.gov/citations/20180001499, public domain (U.S. Government work), adapted",
+  "source": "NASA EVM Implementation Handbook (2018), Appendix H: Statement of Work (SOW)",
+  "licence": "Public domain (U.S. Government work)",
+  "url": "https://ntrs.nasa.gov/citations/20180001499",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "steering committee",
+  "aliases": [],
+  "definition": "A group of senior stakeholders that advises a project, program or portfolio, gives its team direction and support, and takes decisions beyond the team's authority.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "story map",
+  "aliases": [],
+  "definition": "A visual model showing every feature wanted in a product, so the team sees the whole of what it is building and why.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "story mapping",
+  "aliases": [],
+  "definition": "A visual practice of arranging the work into a model, to see when high-value features will come, spot gaps in the backlog and plan releases that bring users value.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "story point",
+  "aliases": [],
+  "definition": "A unit of relative effort for estimating the work of implementing a user story.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "successor activity",
+  "aliases": [],
+  "definition": "An activity that depends on another and logically follows it in the schedule.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "summary activity",
+  "aliases": [],
+  "definition": "A grouping element, drawn as one activity, that shows the time that activities of lower levels of detail require.",
+  "attribution": "Source: U.S. Government Accountability Office, GAO Schedule Assessment Guide (GAO-16-89G, 2015), https://www.gao.gov/products/gao-16-89g, public domain (U.S. Government work), adapted",
+  "source": "U.S. GAO, Schedule Assessment Guide (GAO-16-89G), Glossary: Summary activity",
+  "licence": "Public domain (U.S. Government work)",
+  "url": "https://www.gao.gov/products/gao-16-89g",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "sustainability",
+  "aliases": [],
+  "definition": "Delivering outcomes at a rhythm and by means that can be kept up over time, weighing productivity against care for people, materials and nature, protecting the team's well-being and keeping environmental harm low.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "SWOT (strengths, weaknesses, opportunities, threats) analysis",
+  "aliases": [],
+  "definition": "A technique that identifies the strengths, weaknesses, opportunities, and threats of an organization, a project or an option.",
+  "attribution": "Source: Wikipedia, \"SWOT analysis\" (rev. 1375208703), https://en.wikipedia.org/w/index.php?oldid=1375208703, CC BY-SA 4.0, adapted",
+  "source": "Wikipedia: SWOT analysis",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://en.wikipedia.org/w/index.php?oldid=1375208703",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "tailoring",
+  "aliases": [],
+  "definition": "Deliberately adjusting the approach, governance and processes so they fit the environment and the work in hand.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "task",
+  "aliases": [],
+  "definition": "A specific activity or piece of work to be completed towards a project goal.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "technical debt",
+  "aliases": [],
+  "definition": "The cost of future rework caused by choosing an expedient solution when developing a product.",
+  "attribution": "Source: Wikidata, Q1532172 (English description), https://www.wikidata.org/wiki/Q1532172, CC0 1.0, adapted",
+  "source": "Wikidata (description): Q1532172",
+  "licence": "CC0 1.0",
+  "url": "https://www.wikidata.org/wiki/Q1532172",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "test plan",
+  "aliases": [],
+  "definition": "A document setting out which deliverables are to be checked, by which tests and following what procedures.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "test-driven development",
+  "aliases": [
+   "TDD"
+  ],
+  "definition": "A technique of writing tests before work starts and checking the work against them continuously, aiming at zero defects.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "threat",
+  "aliases": [],
+  "definition": "A risk that would harm one or more objectives of a project, program or portfolio.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "throughput",
+  "aliases": [],
+  "definition": "A measure of the amount of work performed by a process: the number of items.",
+  "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada), adapted",
+  "source": "TERMIUM Plus (Government of Canada): Information Processing (Informatics)",
+  "licence": "Open Government Licence – Canada 2.0",
+  "url": "https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "time and materials (T&M) contract",
+  "aliases": [],
+  "definition": "A hybrid contract: like a cost-reimbursable contract its total is left open, and like a fixed-price contract its rates are set in advance.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "timebox",
+  "aliases": [],
+  "definition": "A short period of fixed length for finishing a piece of work.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "to-complete performance index",
+  "aliases": [
+   "TCPI"
+  ],
+  "definition": "The cost efficiency needed to accomplish the remaining work within a financial goal such as the Budget at Completion or the Estimate at Completion. It compares the budget for remaining work with the remaining cost or the estimated remaining cost.",
+  "attribution": "Source: NASA, Earned Value Management (EVM) Implementation Handbook (2018), https://ntrs.nasa.gov/citations/20180001499, public domain (U.S. Government work), adapted",
+  "source": "NASA EVM Implementation Handbook (2018), Appendix H: To Complete Performance Index (TCPI)",
+  "licence": "Public domain (U.S. Government work)",
+  "url": "https://ntrs.nasa.gov/citations/20180001499",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "total cost of ownership",
+  "aliases": [],
+  "definition": "An estimate of what owning a product or service costs its buyer or owner, directly and indirectly.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "total float",
+  "aliases": [],
+  "definition": "How long an activity can slip or stretch from its earliest start before it delays the project's finish or breaks a schedule constraint.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "traceability",
+  "aliases": [],
+  "definition": "The capacity, through links among items such as requirements, designs, deliverables and tests, to follow information across a product's life cycle.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "trend analysis",
+  "aliases": [],
+  "definition": "An analytical technique that forecasts future results by fitting a mathematical model to past ones.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "trigger condition",
+  "aliases": [],
+  "definition": "A warning sign, an event or circumstance, that a risk is close to occurring.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "use case",
+  "aliases": [],
+  "definition": "A description of a system’s behavior as it responds to requests from external actors, aiming to achieve a specific goal.",
+  "attribution": "Source: Wikipedia, \"Use case\" (rev. 1365406765), https://en.wikipedia.org/w/index.php?oldid=1365406765, CC BY-SA 4.0, adapted",
+  "source": "Wikipedia: Use case",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://en.wikipedia.org/w/index.php?oldid=1365406765",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "user experience",
+  "aliases": [
+   "UX"
+  ],
+  "definition": "A discipline for making users' interaction with a product more usable and accessible.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "user story",
+  "aliases": [],
+  "definition": "A short statement of what a particular user wants to achieve, promising a conversation on the details.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "validation",
+  "aliases": [],
+  "definition": "Confirmation that each product, service or result satisfies the needs of its customer and the other identified stakeholders.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "value",
+  "aliases": [],
+  "definition": "The financial and other benefits a project, program or portfolio brings by reaching its goals, minus the investment.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "value breakdown structure",
+  "aliases": [],
+  "definition": "A work breakdown structure representing the expected value added of each of its elements.",
+  "attribution": "Source: Wikidata, Q18395222 (English description), https://www.wikidata.org/wiki/Q18395222, CC0 1.0, adapted",
+  "source": "Wikidata (description): Q18395222",
+  "licence": "CC0 1.0",
+  "url": "https://www.wikidata.org/wiki/Q18395222",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "value delivery office",
+  "aliases": [],
+  "definition": "A support unit for project delivery that coaches teams, develops agile capability across the organization and guides sponsors and product owners in their roles.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "value delivery system",
+  "aliases": [],
+  "definition": "A set of strategic business activities that build, sustain and/or grow an organization.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "value proposition",
+  "aliases": [],
+  "definition": "The value an organization promises its customers from a product or service.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "value stream",
+  "aliases": [],
+  "definition": "A way of organizing around delivering particular products or services, covering the set of actions from the initial request through realization of value by the customer.",
+  "attribution": "Source: Wikipedia, \"Value stream\" (rev. 1315455771), https://en.wikipedia.org/w/index.php?oldid=1315455771, CC BY-SA 4.0, adapted",
+  "source": "Wikipedia: Value stream",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://en.wikipedia.org/w/index.php?oldid=1315455771",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "value stream map",
+  "aliases": [],
+  "definition": "A chart showing how long each critical step of a process takes, to reveal waste.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "variance",
+  "aliases": [],
+  "definition": "The difference between baseline or expected performance and actual performance.",
+  "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada), adapted",
+  "source": "TERMIUM Plus (Government of Canada): Organization Planning",
+  "licence": "Open Government Licence – Canada 2.0",
+  "url": "https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa",
+  "adapted": true,
+  "original": false
+ },
+ {
+  "term": "variance analysis",
+  "aliases": [],
+  "definition": "A technique for finding how far, and why, actual results depart from the baseline.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "variance at completion",
+  "aliases": [
+   "VAC"
+  ],
+  "definition": "A forecast of how far the project will finish over or under budget, calculated as budget at completion minus estimate at completion.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "velocity",
+  "aliases": [],
+  "definition": "The rate at which a team delivers finished, checked and accepted work per fixed interval.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "verification",
+  "aliases": [],
+  "definition": "A check of whether each product, service or result satisfies the regulations, requirements, specifications or conditions imposed on it.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "waste",
+  "aliases": [],
+  "definition": "Any activity that uses up resources and/or time but adds no value.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "WBS dictionary",
+  "aliases": [],
+  "definition": "A document detailing each work breakdown structure component: its deliverable, activities, schedule, cost and resources.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "weighted milestone method",
+  "aliases": [],
+  "definition": "A way of measuring earned value for a work package: its budget is split among milestones, each closing a measurable stretch and carrying a weighted share.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "what-if analysis",
+  "aliases": [],
+  "definition": "The evaluation of scenarios to forecast how each would affect the project's objectives.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "work breakdown structure",
+  "aliases": [
+   "WBS"
+  ],
+  "definition": "A hierarchical breakdown of all the work the project team must do to meet the project's objectives and produce its deliverables.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "work in process",
+  "aliases": [
+   "WIP"
+  ],
+  "definition": "Any project task or activity started but not yet finished.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "work package",
+  "aliases": [],
+  "definition": "The lowest-level unit of the work breakdown structure, planned and managed for cost, duration, effort and resources, and broken down into activities.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "workaround",
+  "aliases": [],
+  "definition": "A quick, stopgap response to a risk that has occurred, when none was planned or the planned one failed.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ },
+ {
+  "term": "working agreements",
+  "aliases": [],
+  "definition": "Written ground rules, agreed by a team, on how its members work together, communicate and decide.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
+ }
+]

@@ -1,0 +1,6 @@
+__pycache__/
+*.ifo
+*.idx
+*.dict
+*.syn
+*.zip

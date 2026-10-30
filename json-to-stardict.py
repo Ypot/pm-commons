@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Copyright (C) 2026 Ypot <ypot@publik.slmail.me>
+# SPDX-License-Identifier: GPL-3.0-or-later
 """Convert a dictionary in JSON to StarDict.
 
 Usage: json-to-stardict.py SOURCE OUTPUT [--bookname NAME] [--description TEXT]
