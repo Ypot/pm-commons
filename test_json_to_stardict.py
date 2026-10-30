@@ -19,8 +19,8 @@ SCRIPT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "json-to-stard
 ENTRIES = [
     {"term": "work package", "aliases": [], "definition": "The lowest level of the WBS.",
      "attribution": "Original definition, CC BY-SA 4.0"},
-    {"term": "Agile", "aliases": [], "definition": "A mindset & its practices.",
-     "attribution": "Source: Example <guide>, adapted"},
+    {"term": "Agile", "aliases": [], "definition": "A mindset & its <practices>.",
+     "attribution": "Source: Example guide, adapted"},
     {"term": "earned value", "aliases": ["EV"], "definition": "The value of the work done.",
      "attribution": "Original definition, CC BY-SA 4.0"},
     {"term": "RACI matrix", "aliases": ["RACI", "work package"],
@@ -97,9 +97,9 @@ class JsonToStardict(unittest.TestCase):
         # StarDict order: ASCII case folded first, then bytes.
         self.assertEqual([w for w, _ in records(self.read(".idx"), 8)],
                          ["Agile", "earned value", "RACI matrix", "work package"])
-        self.assertEqual(self.lookup("Agile"), [(
-            "Agile", "A mindset &amp; its practices.<br>"
-                     "<i>Source: Example &lt;guide&gt;, adapted</i>")])
+        # The article is the definition alone, escaped for HTML: no attribution.
+        self.assertEqual(self.lookup("Agile"), [("Agile", "A mindset &amp; its &lt;practices&gt;.")])
+        self.assertNotIn(b"Source:", self.read(".dict"))
         self.assertEqual([w for w, _ in self.lookup("EV")], ["earned value"])
         self.assertEqual([w for w, _ in self.lookup("RACI")], ["RACI matrix"])
         # An alias that is another term reaches both articles.
@@ -107,7 +107,8 @@ class JsonToStardict(unittest.TestCase):
                          ["RACI matrix", "work package"])
 
     def test_without_aliases_writes_no_syn(self):
-        entries = [dict(e, aliases=[]) for e in ENTRIES]
+        # Only "term" and "definition" are needed.
+        entries = [{"term": e["term"], "definition": e["definition"]} for e in ENTRIES]
         result = self.run_script(self.source(entries), self.out)
         self.assertEqual(result.returncode, 0, result.stderr)
         self.assertEqual(self.outputs(), ["Out.dict", "Out.idx", "Out.ifo"])
@@ -132,8 +133,8 @@ class JsonToStardict(unittest.TestCase):
         cases = [
             (ENTRIES + [dict(ENTRIES[0])], "entry 5: term 'work package' appears twice"),
             ([dict(ENTRIES[0], definition=" ")], "entry 1: missing or empty 'definition'"),
-            ([{k: v for k, v in ENTRIES[0].items() if k != "attribution"}],
-             "entry 1: missing or empty 'attribution'"),
+            ([{k: v for k, v in ENTRIES[0].items() if k != "term"}],
+             "entry 1: missing or empty 'term'"),
             ([dict(ENTRIES[2], aliases="EV")],
              "entry 1 (earned value): 'aliases' is not a list of non-empty strings"),
             ({"term": "x"}, "the top level is not a list of entries"),

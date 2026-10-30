@@ -6,15 +6,17 @@
 Usage: json-to-stardict.py SOURCE OUTPUT [--bookname NAME] [--description TEXT]
 
 SOURCE is a JSON list of entries, each an object with the strings
-"term", "definition" and "attribution" and an "aliases" list of
+"term" and "definition" and, optionally, an "aliases" list of
 strings, as in dictionary-en.json; other fields are ignored.  OUTPUT
 is the file name without extension of the StarDict dictionary to
 write: OUTPUT.ifo, .idx, .dict and, when there are aliases, .syn.
 Existing files are never overwritten, and the source is only read.
 
-Each term gets one article: its definition, then its attribution in
-italics.  Each alias goes to the .syn and leads to its term's article;
-an alias that is also another term leads to both articles.
+Each term gets one article, its definition.  Each alias goes to the
+.syn and leads to its term's article; an alias that is also another
+term leads to both articles.  The articles carry no credits: the
+licence and the sources go in --description, which readers show as
+the dictionary's information.
 
 Before reporting success the script reads its output back and checks
 that every term and every alias reaches its article.
@@ -62,7 +64,7 @@ def read_source(path):
         where = f"{path}: entry {number}"
         if not isinstance(entry, dict):
             sys.exit(f"{where} is not an object")
-        for field in ("term", "definition", "attribution"):
+        for field in ("term", "definition"):
             value = entry.get(field)
             if not isinstance(value, str) or not value.strip():
                 sys.exit(f"{where}: missing or empty {field!r}")
@@ -73,7 +75,7 @@ def read_source(path):
             sys.exit(f"{where} ({term}): 'aliases' is not a list of non-empty strings")
         if term in articles:
             sys.exit(f"{where}: term {term!r} appears twice")
-        articles[term] = f"{esc(entry['definition'])}<br><i>{esc(entry['attribution'])}</i>"
+        articles[term] = esc(entry["definition"])
         links |= {(alias, term) for alias in aliases if alias != term}
     return articles, links
 
