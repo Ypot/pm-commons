@@ -94,7 +94,7 @@
  {
   "term": "affinity diagram",
   "aliases": [],
-  "definition": "A diagram in which a large set of ideas, such as those produced in a brainstorming session, is sorted into groups of related items so that they can be reviewed and analysed.",
+  "definition": "A diagram in which a large set of ideas, such as those produced in a brainstorming session, is sorted into groups of related items so that they can be reviewed and analyzed.",
   "attribution": "Original definition, CC BY-SA 4.0",
   "source": "Original definition",
   "licence": "CC BY-SA 4.0",
@@ -663,7 +663,7 @@
  {
   "term": "contingency plan",
   "aliases": [],
-  "definition": "A document that outlines the actions to follow if trigger conditions defined in advance occur, for example, to minimise the impact of a risk after it has occurred.",
+  "definition": "A document that outlines the actions to follow if trigger conditions defined in advance occur, for example, to minimize the impact of a risk after it has occurred.",
   "attribution": "Source: European Commission, PM² Project Management Methodology Guide 3.1 (© European Union, 2023), https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1, CC BY 4.0, adapted",
   "source": "PM² Guide 3.1, Appendix G (European Commission): Contingency Plan",
   "licence": "CC BY 4.0",
@@ -1189,7 +1189,7 @@
  {
   "term": "effort",
   "aliases": [],
-  "definition": "The number of labour units required to complete an activity or other project element, usually expressed as staff hours, days or weeks.",
+  "definition": "The number of labor units required to complete an activity or other project element, usually expressed as staff hours, days or weeks.",
   "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada), adapted",
   "source": "TERMIUM Plus (Government of Canada): Organization Planning",
   "licence": "Open Government Licence – Canada 2.0",
@@ -2626,7 +2626,7 @@
  {
   "term": "product backlog",
   "aliases": [],
-  "definition": "An ordered, user-centred list of requirements that is maintained for a product.",
+  "definition": "An ordered, user-centered list of requirements that is maintained for a product.",
   "attribution": "Source: Wikidata, Q15618663 (English description), https://www.wikidata.org/wiki/Q15618663, CC0 1.0, adapted",
   "source": "Wikidata (description): Q15618663",
   "licence": "CC0 1.0",
@@ -2692,7 +2692,7 @@
  {
   "term": "program",
   "aliases": [],
-  "definition": "A group of related projects managed in a coordinated way to obtain benefits that could not be achieved from their individual management. Programmes may also include related work outside its projects.",
+  "definition": "A group of related projects managed in a coordinated way to obtain benefits that could not be achieved from their individual management. Programs may also include related work outside its projects.",
   "attribution": "Source: European Commission, PM² Project Management Methodology Guide 3.1 (© European Union, 2023), https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1, CC BY 4.0, adapted",
   "source": "PM² Guide 3.1, Appendix G (European Commission): Programme",
   "licence": "CC BY 4.0",
@@ -2727,12 +2727,12 @@
  {
   "term": "program management",
   "aliases": [],
-  "definition": "The process of managing several inter-dependent projects to better achieve the programme's strategic objectives and benefits.",
-  "attribution": "Source: European Commission, PM² Project Management Methodology Guide 3.1 (© European Union, 2023), https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1, CC BY 4.0",
+  "definition": "The process of managing several inter-dependent projects to better achieve the program's strategic objectives and benefits.",
+  "attribution": "Source: European Commission, PM² Project Management Methodology Guide 3.1 (© European Union, 2023), https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1, CC BY 4.0, adapted",
   "source": "PM² Guide 3.1, Appendix G (European Commission): Programme Management",
   "licence": "CC BY 4.0",
   "url": "https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1",
-  "adapted": false,
+  "adapted": true,
   "original": false
  },
  {
@@ -2815,7 +2815,7 @@
  {
   "term": "project charter",
   "aliases": [],
-  "definition": "A document initiated by the business sponsor that formally authorises the existence of the project and gives the Project Manager authority to use organisational resources.",
+  "definition": "A document initiated by the business sponsor that formally authorizes the existence of the project and gives the Project Manager authority to use organizational resources.",
   "attribution": "Source: European Commission, PM² Project Management Methodology Guide 3.1 (© European Union, 2023), https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1, CC BY 4.0, adapted",
   "source": "PM² Guide 3.1, Appendix G (European Commission): Project Charter",
   "licence": "CC BY 4.0",
@@ -3415,7 +3415,7 @@
  {
   "term": "risk appetite",
   "aliases": [],
-  "definition": "The level of risk that an organisation or individual is prepared to accept in the pursuit of its objectives.",
+  "definition": "The level of risk that an organization or individual is prepared to accept in the pursuit of its objectives.",
   "attribution": "Source: European Commission, PM² Project Management Methodology Guide 3.1 (© European Union, 2023), https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1, CC BY 4.0, adapted",
   "source": "PM² Guide 3.1, Appendix G (European Commission): Risk Appetite",
   "licence": "CC BY 4.0",
@@ -3426,7 +3426,7 @@
  {
   "term": "risk assessment",
   "aliases": [],
-  "definition": "The process of identifying risks and analysing the likelihood of an identified event occurring and the impact if this event happens.",
+  "definition": "The process of identifying risks and analyzing the likelihood of an identified event occurring and the impact if this event happens.",
   "attribution": "Source: European Commission, PM² Project Management Methodology Guide 3.1 (© European Union, 2023), https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1, CC BY 4.0, adapted",
   "source": "PM² Guide 3.1, Appendix G (European Commission): Risk Assessment",
   "licence": "CC BY 4.0",
@@ -3960,7 +3960,7 @@
  {
   "term": "stakeholder",
   "aliases": [],
-  "definition": "Any individual, group or organisation that can affect, or be or feel affected by, a project, program or portfolio.",
+  "definition": "Any individual, group or organization that can affect, or be or feel affected by, a project, program or portfolio.",
   "attribution": "Original definition, CC BY-SA 4.0",
   "source": "Original definition",
   "licence": "CC BY-SA 4.0",
@@ -3971,7 +3971,7 @@
  {
   "term": "stakeholder engagement",
   "aliases": [],
-  "definition": "The activities through which stakeholders' support is built: identifying and analysing their needs, managing their expectations and communicating with them.",
+  "definition": "The activities through which stakeholders' support is built: identifying and analyzing their needs, managing their expectations and communicating with them.",
   "attribution": "Original definition, CC BY-SA 4.0",
   "source": "Original definition",
   "licence": "CC BY-SA 4.0",

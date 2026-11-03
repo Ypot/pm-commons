@@ -3,7 +3,8 @@
 A free English dictionary of 408 project management terms, from *acceptance criteria* to *working agreements*, as a JSON file and as a StarDict dictionary.
 
 - 325 definitions are original, written for this dictionary.
-- 83 come from free sources, 5 verbatim and 78 adapted: TERMIUM Plus, Wikipedia, the PM² Guide, the U.S. GAO, NASA, Wikidata and the DAU glossary.
+- 83 come from free sources, 4 verbatim and 79 adapted: TERMIUM Plus, Wikipedia, the PM² Guide, the U.S. GAO, NASA, Wikidata and the DAU glossary.
+- The spelling is American throughout, so a definition taken from a source in British English is adapted to it.
 
 ## Files
 
