@@ -507,7 +507,7 @@
  {
   "term": "change control",
   "aliases": [],
-  "definition": "The process of identifying, documenting, and approving or rejecting changes to project documents, deliverables or baselines.",
+  "definition": "The practice of handling proposed changes to a project's baselines, deliverables and documents in a formal way: each change is recognized and recorded, assessed, and then approved or rejected by whoever is empowered to decide.",
   "attribution": "Original definition, CC BY-SA 4.0",
   "source": "Original definition",
   "licence": "CC BY-SA 4.0",
@@ -542,7 +542,7 @@
  {
   "term": "change management plan",
   "aliases": [],
-  "definition": "Part of the project management plan that sets up the change control board, defines its authority and says how the change control system will work.",
+  "definition": "The plan that defines how change control will run: the procedures of the change control system, who makes up the change control board and how far the board's authority extends. It is part of the project management plan.",
   "attribution": "Original definition, CC BY-SA 4.0",
   "source": "Original definition",
   "licence": "CC BY-SA 4.0",
@@ -586,7 +586,7 @@
  {
   "term": "communications management plan",
   "aliases": [],
-  "definition": "Part of the project, program or portfolio management plan that sets out how and when information will be handled and distributed, and by whom.",
+  "definition": "The plan that organizes the flow of information: which information goes to which stakeholders, through what means and how often, and who is responsible for preparing and sending it. It is part of the portfolio, program or project management plan.",
   "attribution": "Original definition, CC BY-SA 4.0",
   "source": "Original definition",
   "licence": "CC BY-SA 4.0",
@@ -641,7 +641,7 @@
  {
   "term": "constraint",
   "aliases": [],
-  "definition": "A restraint on carrying out a project, program, portfolio or process.",
+  "definition": "Anything that limits how a process, project, program or portfolio can be carried out, such as a fixed budget or a deadline.",
   "attribution": "Original definition, CC BY-SA 4.0",
   "source": "Original definition",
   "licence": "CC BY-SA 4.0",
@@ -779,13 +779,13 @@
   "aliases": [
    "CV"
   ],
-  "definition": "The difference between earned value and actual cost (CV = EV − AC). A positive value indicates a favorable condition and a negative value an unfavorable one, for a specific period or cumulative to date.",
-  "attribution": "Source: NASA, Earned Value Management (EVM) Implementation Handbook (2018), https://ntrs.nasa.gov/citations/20180001499, public domain (U.S. Government work), adapted",
-  "source": "NASA EVM Implementation Handbook (2018), Appendix H: Cost Variance (CV)",
-  "licence": "Public domain (U.S. Government work)",
-  "url": "https://ntrs.nasa.gov/citations/20180001499",
-  "adapted": true,
-  "original": false
+  "definition": "Earned value minus actual cost (CV = EV − AC), for one period or cumulatively: above zero, the work done has cost less than its budgeted value; below zero, more.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
  },
  {
   "term": "cost-benefit analysis",
@@ -968,13 +968,13 @@
  {
   "term": "data science",
   "aliases": [],
-  "definition": "A field to extract knowledge and insights from structured and unstructured data.",
-  "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada), adapted",
-  "source": "TERMIUM Plus (Government of Canada): Communication and Information Management",
-  "licence": "Open Government Licence – Canada 2.0",
-  "url": "https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa",
-  "adapted": true,
-  "original": false
+  "definition": "An interdisciplinary field that combines statistics, computing and subject-matter expertise to analyze data of every kind, from database tables to free text and images, and draw from it the patterns and conclusions that can guide decisions.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
  },
  {
   "term": "decision tree analysis",
@@ -1106,13 +1106,13 @@
  {
   "term": "disbenefit",
   "aliases": [],
-  "definition": "A measurable consequence of a project that is perceived as negative by one or more of its stakeholders.",
-  "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada), adapted",
-  "source": "TERMIUM Plus (Government of Canada): Management Operations (General)",
-  "licence": "Open Government Licence – Canada 2.0",
-  "url": "https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa",
-  "adapted": true,
-  "original": false
+  "definition": "The opposite of a benefit: a consequence of a project's or program's outcomes, such as higher running costs or lost jobs, that at least one stakeholder counts as a loss and that can be quantified and tracked.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
  },
  {
   "term": "discrete effort",
@@ -1189,13 +1189,13 @@
  {
   "term": "effort",
   "aliases": [],
-  "definition": "The number of labor units required to complete an activity or other project element, usually expressed as staff hours, days or weeks.",
-  "attribution": "Source: TERMIUM Plus®, Translation Bureau, Government of Canada, https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa. Contains information licensed under the Open Government Licence – Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada), adapted",
-  "source": "TERMIUM Plus (Government of Canada): Organization Planning",
-  "licence": "Open Government Licence – Canada 2.0",
-  "url": "https://open.canada.ca/data/en/dataset/94fc74d6-9b9a-4c2e-9c6c-45a5092453aa",
-  "adapted": true,
-  "original": false
+  "definition": "The person-hours, person-days or person-weeks of work that an activity or a WBS component needs before it is done. It is not the same as duration: two people working side by side for four days put eight person-days of effort into a task that lasts four days.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
  },
  {
   "term": "elicitation",
@@ -1222,13 +1222,13 @@
  {
   "term": "emotional intelligence",
   "aliases": [],
-  "definition": "Ability to identify, assess, and control the emotions of oneself, of others, and of groups.",
-  "attribution": "Source: Wikidata, Q191591 (English description), https://www.wikidata.org/wiki/Q191591, CC0 1.0",
-  "source": "Wikidata (description): Q191591",
-  "licence": "CC0 1.0",
-  "url": "https://www.wikidata.org/wiki/Q191591",
+  "definition": "The set of skills for working with feelings: recognizing and regulating one's own, and reading and influencing those of other people and of groups. Models of it usually name four areas: self-awareness, self-management, social awareness and social skills.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
   "adapted": false,
-  "original": false
+  "original": true
  },
  {
   "term": "enterprise agility",
@@ -1390,26 +1390,26 @@
   "aliases": [
    "FF"
   ],
-  "definition": "A logic relationship: a successor activity cannot finish until the predecessor activity finishes.",
-  "attribution": "Source: U.S. Government Accountability Office, GAO Schedule Assessment Guide (GAO-16-89G, 2015), https://www.gao.gov/products/gao-16-89g, public domain (U.S. Government work), adapted",
-  "source": "U.S. GAO, Schedule Assessment Guide (GAO-16-89G), Glossary: Finish-to-finish (F–F)",
-  "licence": "Public domain (U.S. Government work)",
-  "url": "https://www.gao.gov/products/gao-16-89g",
-  "adapted": true,
-  "original": false
+  "definition": "A logical relationship tying the finish of a successor activity to the finish of its predecessor: the successor can be completed only once the predecessor has been completed.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
  },
  {
   "term": "finish-to-start",
   "aliases": [
    "FS"
   ],
-  "definition": "A logic relationship: a successor activity cannot start until the predecessor activity finishes.",
-  "attribution": "Source: U.S. Government Accountability Office, GAO Schedule Assessment Guide (GAO-16-89G, 2015), https://www.gao.gov/products/gao-16-89g, public domain (U.S. Government work), adapted",
-  "source": "U.S. GAO, Schedule Assessment Guide (GAO-16-89G), Glossary: Finish-to-start (F–S)",
-  "licence": "Public domain (U.S. Government work)",
-  "url": "https://www.gao.gov/products/gao-16-89g",
-  "adapted": true,
-  "original": false
+  "definition": "A logical relationship tying the start of a successor activity to the finish of its predecessor: the successor can begin only once the predecessor has been completed.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
  },
  {
   "term": "firm-fixed-price contract",
@@ -1502,13 +1502,13 @@
  {
   "term": "forward pass",
   "aliases": [],
-  "definition": "A calculation in a schedule network that determines the early start and early finish times by adding durations successively through the network, starting at day one or at a given date.",
-  "attribution": "Source: U.S. Government Accountability Office, GAO Schedule Assessment Guide (GAO-16-89G, 2015), https://www.gao.gov/products/gao-16-89g, public domain (U.S. Government work), adapted",
-  "source": "U.S. GAO, Schedule Assessment Guide (GAO-16-89G), Glossary: Forward pass",
-  "licence": "Public domain (U.S. Government work)",
-  "url": "https://www.gao.gov/products/gao-16-89g",
-  "adapted": true,
-  "original": false
+  "definition": "A critical path method calculation that moves through the schedule network from the project's start, or a chosen date, toward the last activity, adding up durations to find each activity's early start date and early finish date.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
  },
  {
   "term": "framework",
@@ -1636,13 +1636,13 @@
  {
   "term": "impact",
   "aliases": [],
-  "definition": "The measure of the effect of a risk, should it occur, on the objectives.",
-  "attribution": "Source: European Commission, PM² Project Management Methodology Guide 3.1 (© European Union, 2023), https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1, CC BY 4.0, adapted",
-  "source": "PM² Guide 3.1, Appendix G (European Commission): Impact (risk, issue or change)",
-  "licence": "CC BY 4.0",
-  "url": "https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1",
-  "adapted": true,
-  "original": false
+  "definition": "The degree to which one or more objectives, such as cost, schedule or quality, would be affected if a given risk occurred: harmfully for a threat, beneficially for an opportunity.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
  },
  {
   "term": "impact mapping",
@@ -1968,13 +1968,13 @@
  {
   "term": "milestone",
   "aliases": [],
-  "definition": "A significant point or event in a project, program or portfolio.",
-  "attribution": "Source: European Commission, PM² Project Management Methodology Guide 3.1 (© European Union, 2023), https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1, CC BY 4.0, adapted",
-  "source": "PM² Guide 3.1, Appendix G (European Commission): Milestones",
-  "licence": "CC BY 4.0",
-  "url": "https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1",
-  "adapted": true,
-  "original": false
+  "definition": "A checkpoint with no duration that marks an important event in the life of a project, program or portfolio, such as the end of a phase, the handover of a key deliverable or a contractual due date.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
  },
  {
   "term": "milestone schedule",
@@ -2604,7 +2604,7 @@
  {
   "term": "procurement management plan",
   "aliases": [],
-  "definition": "Within the project or program management plan, the component describing how the team will obtain goods and services from beyond the performing organization.",
+  "definition": "The plan for buying from sellers outside the performing organization, setting out how the goods and services the team needs from them will be procured. It is part of the program or project management plan.",
   "attribution": "Original definition, CC BY-SA 4.0",
   "source": "Original definition",
   "licence": "CC BY-SA 4.0",
@@ -2692,13 +2692,13 @@
  {
   "term": "program",
   "aliases": [],
-  "definition": "A group of related projects managed in a coordinated way to obtain benefits that could not be achieved from their individual management. Programs may also include related work outside its projects.",
-  "attribution": "Source: European Commission, PM² Project Management Methodology Guide 3.1 (© European Union, 2023), https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1, CC BY 4.0, adapted",
-  "source": "PM² Guide 3.1, Appendix G (European Commission): Programme",
-  "licence": "CC BY 4.0",
-  "url": "https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1",
-  "adapted": true,
-  "original": false
+  "definition": "A collection of related projects, subprograms and other program work whose intended benefits can only be realized by coordinating them as a whole, not by running each part on its own.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
  },
  {
   "term": "program charter",
@@ -2815,13 +2815,13 @@
  {
   "term": "project charter",
   "aliases": [],
-  "definition": "A document initiated by the business sponsor that formally authorizes the existence of the project and gives the Project Manager authority to use organizational resources.",
-  "attribution": "Source: European Commission, PM² Project Management Methodology Guide 3.1 (© European Union, 2023), https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1, CC BY 4.0, adapted",
-  "source": "PM² Guide 3.1, Appendix G (European Commission): Project Charter",
-  "licence": "CC BY 4.0",
-  "url": "https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1",
-  "adapted": true,
-  "original": false
+  "definition": "The document that gives a project official standing and grants its project manager authority to put the organization's resources to work on it; it is issued by the sponsor or another project initiator.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
  },
  {
   "term": "project governance",
@@ -3162,7 +3162,7 @@
  {
   "term": "requirements management plan",
   "aliases": [],
-  "definition": "The part of the project or program management plan on analyzing, recording and managing requirements.",
+  "definition": "The plan that sets the rules for handling requirements: how they will be analyzed and recorded, how they will be prioritized and traced to deliverables, and how changes to them will be controlled. It is part of the program or project management plan.",
   "attribution": "Original definition, CC BY-SA 4.0",
   "source": "Original definition",
   "licence": "CC BY-SA 4.0",
@@ -3184,7 +3184,7 @@
  {
   "term": "reserve",
   "aliases": [],
-  "definition": "An allowance in the project management plan to absorb risks to cost and/or schedule, often qualified by the risks it covers, as in contingency or management reserve.",
+  "definition": "Budget or schedule time held in hand so that a project can absorb the cost or schedule effects of risk, as provided for in the project management plan. It usually carries a qualifier naming the risks it covers: contingency reserve for risks already identified, management reserve for those nobody could foresee.",
   "attribution": "Original definition, CC BY-SA 4.0",
   "source": "Original definition",
   "licence": "CC BY-SA 4.0",
@@ -3448,7 +3448,7 @@
  {
   "term": "risk avoidance",
   "aliases": [],
-  "definition": "A response strategy that removes a threat or shields the project, program or portfolio from its impact.",
+  "definition": "A response to a threat that takes it out of play: either the threat is removed altogether, so its probability falls to zero, or the objectives are insulated from it, so it could do no harm even if it happened. Dropping a feature that depends on an untried technology is an example.",
   "attribution": "Original definition, CC BY-SA 4.0",
   "source": "Original definition",
   "licence": "CC BY-SA 4.0",
@@ -3536,7 +3536,7 @@
  {
   "term": "risk management",
   "aliases": [],
-  "definition": "Identifying, analyzing, responding to and monitoring risks in a project, program or portfolio, or across the enterprise.",
+  "definition": "Dealing with risk in a portfolio, program or project, or across the enterprise: risks are identified and analyzed, responses are planned and carried out, and the risks and responses are monitored.",
   "attribution": "Original definition, CC BY-SA 4.0",
   "source": "Original definition",
   "licence": "CC BY-SA 4.0",
@@ -3569,13 +3569,13 @@
  {
   "term": "risk management plan",
   "aliases": [],
-  "definition": "The document that describes how risks will be identified and managed, part of the project, program or portfolio management plan.",
-  "attribution": "Source: NASA, Earned Value Management (EVM) Implementation Handbook (2018), https://ntrs.nasa.gov/citations/20180001499, public domain (U.S. Government work), adapted",
-  "source": "NASA EVM Implementation Handbook (2018), Appendix H: Risk Management Plan (RMP)",
-  "licence": "Public domain (U.S. Government work)",
-  "url": "https://ntrs.nasa.gov/citations/20180001499",
-  "adapted": true,
-  "original": false
+  "definition": "The plan that sets the ground rules for managing risk: the approach and methods to be used, who is responsible for what, the budget and timing of risk activities, the categories risks are sorted into and how much risk the stakeholders are prepared to accept. It is part of the portfolio, program or project management plan.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
  },
  {
   "term": "risk mitigation",
@@ -3679,7 +3679,7 @@
  {
   "term": "root cause analysis",
   "aliases": [],
-  "definition": "An analytical method for finding the underlying cause of a variance, a defect or a risk.",
+  "definition": "A technique for tracing a defect, a variance or a risk back to the cause or causes at its origin, so that corrective or preventive action addresses those causes rather than the symptoms.",
   "attribution": "Original definition, CC BY-SA 4.0",
   "source": "Original definition",
   "licence": "CC BY-SA 4.0",
@@ -3756,7 +3756,7 @@
  {
   "term": "schedule management plan",
   "aliases": [],
-  "definition": "The part of the project or program management plan that sets the criteria and activities for drawing up the schedule and monitoring and controlling it.",
+  "definition": "The plan that fixes how the schedule will be built and kept under control: for example, the units it is measured in, the thresholds that call for action, how precise duration estimates must be and, on adaptive work, how long releases and iterations last. It is part of the program or project management plan.",
   "attribution": "Original definition, CC BY-SA 4.0",
   "source": "Original definition",
   "licence": "CC BY-SA 4.0",
@@ -3848,7 +3848,7 @@
  {
   "term": "scope management plan",
   "aliases": [],
-  "definition": "The part of the project or program management plan that states how scope is to be defined and developed, monitored and controlled, and validated.",
+  "definition": "The plan that governs the scope from start to finish: how it will be worked out and defined, how completed deliverables will be formally accepted, and how its status and changes will be monitored and controlled. It is part of the program or project management plan.",
   "attribution": "Original definition, CC BY-SA 4.0",
   "source": "Original definition",
   "licence": "CC BY-SA 4.0",
@@ -3903,7 +3903,7 @@
  {
   "term": "sourcing strategy plan",
   "aliases": [],
-  "definition": "The part of the project management plan that sets out which work will be done in-house, outsourced, or both.",
+  "definition": "The plan that records the project's make-or-buy choices, with the reasons behind them and the criteria for choosing sources: which work will be bought from outside, which kept in-house and which shared between the two. It is part of the project management plan.",
   "attribution": "Original definition, CC BY-SA 4.0",
   "source": "Original definition",
   "licence": "CC BY-SA 4.0",
@@ -4030,13 +4030,13 @@
   "aliases": [
    "SS"
   ],
-  "definition": "A logic relationship: a successor activity cannot start until the predecessor starts.",
-  "attribution": "Source: U.S. Government Accountability Office, GAO Schedule Assessment Guide (GAO-16-89G, 2015), https://www.gao.gov/products/gao-16-89g, public domain (U.S. Government work), adapted",
-  "source": "U.S. GAO, Schedule Assessment Guide (GAO-16-89G), Glossary: Start-to-start (S–S)",
-  "licence": "Public domain (U.S. Government work)",
-  "url": "https://www.gao.gov/products/gao-16-89g",
-  "adapted": true,
-  "original": false
+  "definition": "A logical relationship tying the start of a successor activity to the start of its predecessor: the successor can begin only once the predecessor has begun.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
  },
  {
   "term": "statement of work",
@@ -4131,13 +4131,13 @@
  {
   "term": "SWOT (strengths, weaknesses, opportunities, threats) analysis",
   "aliases": [],
-  "definition": "A technique that identifies the strengths, weaknesses, opportunities, and threats of an organization, a project or an option.",
-  "attribution": "Source: Wikipedia, \"SWOT analysis\" (rev. 1375208703), https://en.wikipedia.org/w/index.php?oldid=1375208703, CC BY-SA 4.0, adapted",
-  "source": "Wikipedia: SWOT analysis",
+  "definition": "A technique that looks at a project, an option or a whole organization from four angles: its internal strengths and weaknesses, and the opportunities and threats it faces from outside.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
   "licence": "CC BY-SA 4.0",
-  "url": "https://en.wikipedia.org/w/index.php?oldid=1375208703",
-  "adapted": true,
-  "original": false
+  "url": null,
+  "adapted": false,
+  "original": true
  },
  {
   "term": "tailoring",
@@ -4245,13 +4245,13 @@
   "aliases": [
    "TCPI"
   ],
-  "definition": "The cost efficiency needed to accomplish the remaining work within a financial goal such as the Budget at Completion or the Estimate at Completion. It compares the budget for remaining work with the remaining cost or the estimated remaining cost.",
-  "attribution": "Source: NASA, Earned Value Management (EVM) Implementation Handbook (2018), https://ntrs.nasa.gov/citations/20180001499, public domain (U.S. Government work), adapted",
-  "source": "NASA EVM Implementation Handbook (2018), Appendix H: To Complete Performance Index (TCPI)",
-  "licence": "Public domain (U.S. Government work)",
-  "url": "https://ntrs.nasa.gov/citations/20180001499",
-  "adapted": true,
-  "original": false
+  "definition": "The cost efficiency that the rest of the work must reach for the project to finish at its budget at completion, or at an approved estimate at completion: the budget of the work not yet done divided by the money still available, (BAC − EV) / (BAC − AC) or (BAC − EV) / (EAC − AC). A value above 1 means the remaining work must be done for less than its budgeted cost.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
+  "licence": "CC BY-SA 4.0",
+  "url": null,
+  "adapted": false,
+  "original": true
  },
  {
   "term": "total cost of ownership",
@@ -4412,13 +4412,13 @@
  {
   "term": "value stream",
   "aliases": [],
-  "definition": "A way of organizing around delivering particular products or services, covering the set of actions from the initial request through realization of value by the customer.",
-  "attribution": "Source: Wikipedia, \"Value stream\" (rev. 1315455771), https://en.wikipedia.org/w/index.php?oldid=1315455771, CC BY-SA 4.0, adapted",
-  "source": "Wikipedia: Value stream",
+  "definition": "The full sequence of activities that turns a customer's request into value the customer receives; an organization can arrange its work and teams around the value streams of particular products or services.",
+  "attribution": "Original definition, CC BY-SA 4.0",
+  "source": "Original definition",
   "licence": "CC BY-SA 4.0",
-  "url": "https://en.wikipedia.org/w/index.php?oldid=1315455771",
-  "adapted": true,
-  "original": false
+  "url": null,
+  "adapted": false,
+  "original": true
  },
  {
   "term": "value stream map",
