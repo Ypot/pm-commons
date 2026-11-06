@@ -3569,7 +3569,7 @@
  {
   "term": "risk management plan",
   "aliases": [],
-  "definition": "The plan that sets the ground rules for managing risk on the work it covers. Among other things, it can say how much risk the stakeholders are prepared to accept, how the probability and impact of a risk will be rated, who looks after which risks, and what money and time risk activities get. It is part of the portfolio, program or project management plan.",
+  "definition": "The plan that sets the ground rules for managing risk on the work it covers. Among other things, it can say who takes which role in managing risk, how much risk the stakeholders are prepared to accept, what money and time risk activities get, and how the probability and impact of a risk will be rated. It is part of the portfolio, program or project management plan.",
   "attribution": "Original definition, CC BY-SA 4.0",
   "source": "Original definition",
   "licence": "CC BY-SA 4.0",
