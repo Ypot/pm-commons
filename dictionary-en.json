@@ -1189,7 +1189,7 @@
  {
   "term": "effort",
   "aliases": [],
-  "definition": "The person-hours, person-days or person-weeks of work that an activity or a WBS component needs before it is done. It is not the same as duration: two people working side by side for four days put eight person-days of effort into a task that lasts four days.",
+  "definition": "The person-hours, person-days or person-weeks of work that an activity or a WBS component needs before it is done. It is not the same as duration: two people working side by side for four days put eight person-days into a task that lasts four days.",
   "attribution": "Original definition, CC BY-SA 4.0",
   "source": "Original definition",
   "licence": "CC BY-SA 4.0",
@@ -3184,7 +3184,7 @@
  {
   "term": "reserve",
   "aliases": [],
-  "definition": "Budget or schedule time held in hand so that a project can absorb the cost or schedule effects of risk, as provided for in the project management plan. It usually carries a qualifier naming the risks it covers: contingency reserve for risks already identified, management reserve for those nobody could foresee.",
+  "definition": "Money or schedule time set aside to absorb the effects of risk on a project's cost or schedule. Contingency reserve is kept for risks already identified, management reserve for those nobody could foresee.",
   "attribution": "Original definition, CC BY-SA 4.0",
   "source": "Original definition",
   "licence": "CC BY-SA 4.0",
@@ -3569,7 +3569,7 @@
  {
   "term": "risk management plan",
   "aliases": [],
-  "definition": "The plan that sets the ground rules for managing risk: the approach and methods to be used, who is responsible for what, the budget and timing of risk activities, the categories risks are sorted into and how much risk the stakeholders are prepared to accept. It is part of the portfolio, program or project management plan.",
+  "definition": "The plan that sets the ground rules for managing risk on the work it covers. Among other things, it can say how much risk the stakeholders are prepared to accept, how the probability and impact of a risk will be rated, who looks after which risks, and what money and time risk activities get. It is part of the portfolio, program or project management plan.",
   "attribution": "Original definition, CC BY-SA 4.0",
   "source": "Original definition",
   "licence": "CC BY-SA 4.0",
@@ -3701,7 +3701,7 @@
  {
   "term": "rule-based systems",
   "aliases": [],
-  "definition": "Early artificial intelligence systems in which handwritten rules check logical conditions to reach decisions.",
+  "definition": "Early artificial intelligence systems in which rules written by people check logical conditions to reach decisions.",
   "attribution": "Original definition, CC BY-SA 4.0",
   "source": "Original definition",
   "licence": "CC BY-SA 4.0",
@@ -3756,7 +3756,7 @@
  {
   "term": "schedule management plan",
   "aliases": [],
-  "definition": "The plan that fixes how the schedule will be built and kept under control: for example, the units it is measured in, the thresholds that call for action, how precise duration estimates must be and, on adaptive work, how long releases and iterations last. It is part of the program or project management plan.",
+  "definition": "The plan that sets how the schedule will be built and kept under control: for example, the units it is measured in, the thresholds that call for action, how precise duration estimates must be and, on adaptive work, how long releases and iterations last. It is part of the program or project management plan.",
   "attribution": "Original definition, CC BY-SA 4.0",
   "source": "Original definition",
   "licence": "CC BY-SA 4.0",
@@ -4017,7 +4017,7 @@
   "aliases": [
    "SF"
   ],
-  "definition": "A logic relationship directing a successor activity not to finish until its predecessor starts.",
+  "definition": "A logical relationship directing a successor activity not to finish until its predecessor starts.",
   "attribution": "Source: U.S. Government Accountability Office, GAO Schedule Assessment Guide (GAO-16-89G, 2015), https://www.gao.gov/products/gao-16-89g, public domain (U.S. Government work), adapted",
   "source": "U.S. GAO, Schedule Assessment Guide (GAO-16-89G), Glossary: Start-to-finish (S–F)",
   "licence": "Public domain (U.S. Government work)",
