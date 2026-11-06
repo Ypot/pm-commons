@@ -2727,7 +2727,7 @@
  {
   "term": "program management",
   "aliases": [],
-  "definition": "The process of managing several inter-dependent projects to better achieve the program's strategic objectives and benefits.",
+  "definition": "The process of managing several interdependent projects to better achieve the program's strategic objectives and benefits.",
   "attribution": "Source: European Commission, PM² Project Management Methodology Guide 3.1 (© European Union, 2023), https://op.europa.eu/en/publication-detail/-/publication/97cc2f12-c648-11ee-95d9-01aa75ed71a1, CC BY 4.0, adapted",
   "source": "PM² Guide 3.1, Appendix G (European Commission): Programme Management",
   "licence": "CC BY 4.0",
@@ -3701,7 +3701,7 @@
  {
   "term": "rule-based systems",
   "aliases": [],
-  "definition": "Early artificial intelligence systems in which hand-written rules check logical conditions to reach decisions.",
+  "definition": "Early artificial intelligence systems in which handwritten rules check logical conditions to reach decisions.",
   "attribution": "Original definition, CC BY-SA 4.0",
   "source": "Original definition",
   "licence": "CC BY-SA 4.0",
